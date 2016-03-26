@@ -9,8 +9,8 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
 
-future_gen = pd.read_csv('gen_future_Y2014.csv', skiprows = 1)
-current_gen = pd.read_csv('gen_exist_Y2014.csv', skiprows = 1)
+#future_gen = pd.read_csv('gen_future_Y2014.csv', skiprows = 1)
+current_gen = pd.read_csv('gen_exist_Y2014.csv', skiprows = 1, low_memory = False)
 
 years = np.array(list(set(current_gen['Operating Year'])))
 
@@ -50,6 +50,25 @@ graphing_data = pd.DataFrame(columns=graph_data[0])
       
 for i in range(1,len(graph_data)):
     graphing_data.loc[i] = graph_data[i]
+    
+print 'done'
+## prime mover graph
+#    
+#tech_data = graphing_data[graphing_data['Technology'] != 'NaN']
+#
+#tech_years = list(set(tech_data['Year']))
+#
+#for year in tech_years:
+#    current_year = tech_data[tech_data['Year'] <= year]
+#    tech_list = list(set(current_year['Technology']))
+#    
+#    for tech in tech_list:
+#    
+
+
+
+
+# technology graph
     
     
         
