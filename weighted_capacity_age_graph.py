@@ -1,9 +1,10 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sat Mar 26 14:12:20 2016
+Created on Sun Mar 27 17:05:55 2016
 
 @author: Connor
 """
+
 
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -67,77 +68,3 @@ mpl.rcParams.update({'font.size': 15})
 #    
 ##graphing_data.to_csv('graphing_data.csv')
 #print 'done'
-## prime mover graph
-
-# colors come from "Twenty-Two Colors of Maximum Contrast" by Kenneth L. Kelly"
-# I skip white, because I don't need all 22, and don't want a white line.
-colors = ['k','#FFB300', '#803E75', '#FF6800', '#A6BDD7', '#C10020', '#CEA262',
-          '#817066', '#007D34', '#F6768E', '#00538A', '#FF7A5C']
-    
-    
-    
-graphing_data = pd.read_csv('graphing_data.csv')    
-tech_data = graphing_data[graphing_data['Technology'] != 'NaN']
-
-years = np.array(list(set(graphing_data['Year'])))
-sort_idx = years.argsort()
-years = years[sort_idx]
-
-technologies = list(set(graphing_data['Technology']))
-technologies.pop(0)
-
-#fig, ax = plt.subplots()
-#
-##print len(technologies)
-##print technologies
-##Technologies Graph
-#i = 0
-#for tech in technologies:
-#    specific_tech_data = tech_data[tech_data['Technology'] == tech]
-#    
-#    fraction = specific_tech_data['Fraction'] *100
-#    if np.average(fraction) > 0.75:
-#
-#        break
-#        plt.plot(years, fraction, label=tech, linewidth = 3, color= colors[i])
-#        i = i + 1
-#    
-#legend = ax.legend(loc='upper center', bbox_to_anchor=(0.5, -0.11),fancybox=True, shadow=True, ncol=2)
-#plt.ylim(0,101)
-#plt.xlim(1900, 2014)
-#plt.xlabel('Year')
-#plt.gcf().subplots_adjust(bottom=0.27)
-#
-#ax.set_ylabel('Percent')
-#
-#plt.savefig('tech_graph4.png', dpi=400)
-##plt.show()
-#plt.close()
-
-# PM graph 
-PMs = list(set(graphing_data['Plant Type']))
-print PMs
-PMs.pop(0)
-PM_data = graphing_data[graphing_data['Plant Type'] != 'NaN']
-fig, ax = plt.subplots()
-   
-i = 0
-for tech in PMs:
-    specific_tech_data = PM_data[PM_data['Plant Type'] == tech]
-    
-    fraction = specific_tech_data['Fraction'] *100
-    plt.plot(years, fraction, label=tech, linewidth = 3, color= colors[i])
-    i = i + 1
-    
-legend = ax.legend(loc='upper center', bbox_to_anchor=(0.5, -0.11),fancybox=True, shadow=True, ncol=5)
-plt.ylim(0,101)
-plt.xlim(1900, 2014)
-plt.xlabel('Year')
-plt.gcf().subplots_adjust(bottom=0.27)
-plt.title('Fuel Type Disposition of United States Operating Generation, 1891-2014')
-
-ax.set_ylabel('Percent')
-
-plt.savefig('plant_type_graph3.png', dpi=400)
-plt.show()     
-    
