@@ -52,6 +52,30 @@ start_year = np.min(op_years)
 
 years_tracked = []
 
+
+"""
+put everything in a technology loop, I can use the categories I designed
+for that incorrect graph a few days ago.
+
+Need to deal with some keyerrors probably, as specific year and tech combos
+definitely are gonna be 0, and I assume the sum function doesn't like that.
+Also, retirement will need to be treated similarly.
+Also, this will greatly expand the dataset, like at least (data*5)?
+Also, each tech is an island, indepedent fraction, so not aginst the whole,
+although I could work that through later.
+
+1. Add tech categories
+2. Add outer tech loop
+3. Check keyerror error
+4. Build new dataframe
+5. Add in a graphing loop to deal with new categories
+
+
+ALTERNATE
+Add a bar graph to original graph to show # of generators built.
+
+"""
+
 for op_year in op_years:
     years_tracked.append(op_year)
     # generators that are new in this year
