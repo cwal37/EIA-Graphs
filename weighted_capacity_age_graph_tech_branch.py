@@ -78,13 +78,13 @@ Add a bar graph to original graph to show # of generators built.
 #    tech_gen = generators[generators['Plant Type'] == tech]
 #    
 #    op_years = np.array(list(set(tech_gen['Operating Year'])))
+#    ret_years = np.array(list(set(tech_gen['Retirement Year'])))
+#    op_years = np.array(list(set(np.append(op_years, ret_years))))
+#    
 #    sort_idx = op_years.argsort()
 #    op_years = op_years[sort_idx]
-#    
-#    ret_years = np.array(list(set(tech_gen['Retirement Year'])))
-#    sort_idx = ret_years.argsort()
-#    ret_years = ret_years[sort_idx]
-#    
+#    op_years = op_years[1::]
+#        
 #    start_year = np.min(op_years)
 #    years_tracked = []
 #
@@ -133,21 +133,20 @@ Add a bar graph to original graph to show # of generators built.
 #graphing_data.to_csv('tech_weighted_capacity_datav3.csv')
 #print 'done'
 #
-#end = time.clock()
-#print(end-start)
-
-
-#for i in range(0,len(graph_data)):
-#    graphing_data.loc[i] = graph_data[i+1]
-#    if i == 100000:
-#        print '30%+ written'
-#    elif i == 200000:
-#        print '60%+ written'
-#    elif i == 300000:
-#        print 'Over 95% written, nearly there'
-
-##
 #
+#
+#
+##for i in range(0,len(graph_data)):
+##    graphing_data.loc[i] = graph_data[i+1]
+##    if i == 100000:
+##        print '30%+ written'
+##    elif i == 200000:
+##        print '60%+ written'
+##    elif i == 300000:
+##        print 'Over 95% written, nearly there'
+#
+###
+##
 #df = pd.read_csv('tech_weighted_capacity_datav3.csv', skiprows = 1, low_memory = False)
 #
 #single_add = df[df['year_calc'] == 1891]
@@ -201,9 +200,12 @@ Add a bar graph to original graph to show # of generators built.
 colors = ['k','#FFB300', '#803E75', '#FF6800', '#A6BDD7', '#C10020', '#CEA262',
           '#817066', '#007D34', '#F6768E', '#00538A', '#FF7A5C']
     
-    
+colors = ['#FF7A5C', 'k','#803E75', '#00538A', '#817066', '#C10020', '#CEA262',
+          '#FFB300', '#007D34','#A6BDD7' ]
+  
 df = pd.read_csv('tech_weighted_capacity_data_finalv4.csv', skiprows = 1, low_memory = False)
 ptypes = list(set(df['Plant Type']))
+print ptypes
 
 i = 0
 fig, ax = plt.subplots()
@@ -216,18 +218,20 @@ for x in ptypes:
     w_age = list(tech_df['Capacity-Weighted Age'])
 
     
-    plt.plot(years, w_age, linewidth = 8, label = x, color= colors[i])
+    plt.plot(years, w_age, linewidth = 7, label = x, color= colors[i])
     i = i + 1
     
 legend = ax.legend(loc='upper center', bbox_to_anchor=(0.5, -0.11),fancybox=True, shadow=True, ncol=5)
-plt.title('Capacity-Weighted Age of US Generators, 1891-2014')
+plt.title('Capacity-Weighted Age of US Generators by Plant Type, 1891-2014')
 plt.xlabel('Year')
 plt.ylabel('Age (years)')
-plt.gcf().subplots_adjust(bottom=0.27)
+plt.gcf().subplots_adjust(bottom=0.26)
+plt.xlim(1890, 2015)
 
-plt.savefig('tech_weighted_capacity_agev2.png', dpi = 400)
-
-
+plt.savefig('tech_weighted_capacity_agev5.png', dpi = 400)
+#
+#end = time.clock()
+#print(end-start)
     
     
 
