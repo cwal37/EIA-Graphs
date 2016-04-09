@@ -1,0 +1,5142 @@
+,Year,Plant Type,Cap_added,Capacity-Weighted Age
+0,Year,Plant Type,Cap_added,Capacity-Weighted Age
+1,1891,Natural Gas,"23435    3.9
+Name: cap_added, dtype: float64",NaN
+2,1893,Natural Gas,"23651    0.8
+Name: cap_added, dtype: float64",NaN
+3,1896,Natural Gas,"23868    4.8
+Name: cap_added, dtype: float64",NaN
+4,1898,Natural Gas,"24086    6.3
+Name: cap_added, dtype: float64",NaN
+5,1899,Natural Gas,"24305    3.2
+Name: cap_added, dtype: float64",NaN
+6,1900,Natural Gas,"24525    9.2
+Name: cap_added, dtype: float64",NaN
+7,1901,Natural Gas,"24746    4.3
+Name: cap_added, dtype: float64",NaN
+8,1902,Natural Gas,"24968    2.4
+Name: cap_added, dtype: float64",NaN
+9,1903,Natural Gas,"25191    45.6
+Name: cap_added, dtype: float64",NaN
+10,1904,Natural Gas,"25415    29.6
+Name: cap_added, dtype: float64",NaN
+11,1905,Natural Gas,"25640    37.6
+Name: cap_added, dtype: float64",NaN
+12,1906,Natural Gas,"25866    33.1
+Name: cap_added, dtype: float64",NaN
+13,1907,Natural Gas,"26093    122.1
+Name: cap_added, dtype: float64",NaN
+14,1908,Natural Gas,"26321    54.1
+Name: cap_added, dtype: float64",NaN
+15,1909,Natural Gas,"26550    74.4
+Name: cap_added, dtype: float64",NaN
+16,1910,Natural Gas,"26780    174.6
+Name: cap_added, dtype: float64",NaN
+17,1911,Natural Gas,"27011    143.6
+Name: cap_added, dtype: float64",NaN
+18,1912,Natural Gas,"27243    208.7
+Name: cap_added, dtype: float64",NaN
+19,1913,Natural Gas,"27476    347.2
+Name: cap_added, dtype: float64",NaN
+20,1914,Natural Gas,"27710    147.7
+Name: cap_added, dtype: float64",NaN
+21,1915,Natural Gas,"27945    253.7
+Name: cap_added, dtype: float64",1
+22,1916,Natural Gas,"28181    168.8
+Name: cap_added, dtype: float64",NaN
+23,1917,Natural Gas,"28418    266.9
+Name: cap_added, dtype: float64",NaN
+24,1918,Natural Gas,"28656    188.9
+Name: cap_added, dtype: float64",NaN
+25,1919,Natural Gas,"28895    279.3
+Name: cap_added, dtype: float64",NaN
+26,1920,Natural Gas,"29135    159.0
+Name: cap_added, dtype: float64",NaN
+27,1921,Natural Gas,"29376    294.2
+56495     10.0
+Name: cap_added, dtype: float64",NaN
+28,1922,Natural Gas,"29618    179.2
+Name: cap_added, dtype: float64",NaN
+29,1923,Natural Gas,"29861    409.4
+Name: cap_added, dtype: float64",NaN
+30,1924,Natural Gas,"30105    543.6
+Name: cap_added, dtype: float64",NaN
+31,1925,Natural Gas,"30350     732.4
+56831      20.0
+103046      2.0
+Name: cap_added, dtype: float64",1.365853659
+32,1926,Natural Gas,"30596     281.7
+103500     11.2
+Name: cap_added, dtype: float64",1.713375796
+33,1927,Natural Gas,"30843     460.4
+103955      8.0
+Name: cap_added, dtype: float64",NaN
+34,1928,Natural Gas,"31091     1003.5
+104411      67.5
+Name: cap_added, dtype: float64",3.278074866
+35,1929,Natural Gas,"31340     260.7
+57168      25.0
+104868      6.0
+Name: cap_added, dtype: float64",2.517326733
+36,1930,Natural Gas,"31590     792.6
+57506      66.7
+105326      9.5
+Name: cap_added, dtype: float64",3.141052632
+37,1931,Natural Gas,"31841     626.8
+105785     11.2
+Name: cap_added, dtype: float64",NaN
+38,1932,Natural Gas,"32093    272.3
+Name: cap_added, dtype: float64",NaN
+39,1933,Natural Gas,"32346    37.8
+57845     3.0
+Name: cap_added, dtype: float64",5.835643564
+40,1934,Natural Gas,"32600     37.6
+58185      3.0
+106245     3.0
+Name: cap_added, dtype: float64",NaN
+41,1935,Natural Gas,"32855    81.1
+58526    89.9
+Name: cap_added, dtype: float64",7.606698565
+42,1936,Natural Gas,"33111     825.4
+58868       9.0
+106706     14.5
+Name: cap_added, dtype: float64",8.078361532
+43,1937,Natural Gas,"33368     355.2
+59211      20.8
+107168      8.7
+Name: cap_added, dtype: float64",NaN
+44,1938,Natural Gas,"33626     691.6
+59555      25.0
+107631     30.5
+Name: cap_added, dtype: float64",8.946219797
+45,1939,Natural Gas,"33885     504.6
+59900      65.6
+108095     20.0
+Name: cap_added, dtype: float64",8.151401869
+46,1940,Natural Gas,"34145     442.6
+60246     137.5
+108560     22.7
+Name: cap_added, dtype: float64",8.454700855
+47,1941,Natural Gas,"34406     752.6
+60593     134.8
+109026     23.5
+Name: cap_added, dtype: float64",6.161043478
+48,1942,Natural Gas,"34668     1109.4
+60941      292.0
+109493      52.5
+Name: cap_added, dtype: float64",5.954685315
+49,1943,Natural Gas,"34931     1102.4
+61290      479.2
+109961      87.5
+Name: cap_added, dtype: float64",6.54375
+50,1944,Natural Gas,"35195    1013.6
+61640     172.5
+Name: cap_added, dtype: float64",7.51490796
+51,1945,Natural Gas,"35460     365.6
+61991      77.5
+110430     11.0
+Name: cap_added, dtype: float64",5.672738997
+52,1946,Natural Gas,"35726    58.9
+62343    50.0
+Name: cap_added, dtype: float64",6.240208488
+53,1947,Natural Gas,"35993     169.0
+62696     312.4
+110900     60.5
+Name: cap_added, dtype: float64",6.382530507
+54,1948,Natural Gas,"36261     803.1
+63050     723.9
+111371    109.7
+Name: cap_added, dtype: float64",3.811361322
+55,1949,Natural Gas,"36530     1245.8
+63405     1367.4
+111843     118.3
+Name: cap_added, dtype: float64",3.537939869
+56,1950,Natural Gas,"36800     1201.8
+63761     1575.8
+112316     134.3
+Name: cap_added, dtype: float64",3.480820036
+57,1951,Natural Gas,"37071     1372.0
+64118     1870.8
+112790     168.2
+Name: cap_added, dtype: float64",3.52895449
+58,1952,Natural Gas,"37343     1692.8
+64476     3132.0
+113265     133.6
+Name: cap_added, dtype: float64",3.896129673
+59,1953,Natural Gas,"37616     1966.3
+64835     4800.9
+113741      73.1
+Name: cap_added, dtype: float64",4.030768665
+60,1954,Natural Gas,"37890     1282.9
+65195     6552.6
+114218     136.0
+Name: cap_added, dtype: float64",3.682019421
+61,1955,Natural Gas,"38165     1743.5
+65556     7292.8
+114696     193.3
+Name: cap_added, dtype: float64",4.122206858
+62,1956,Natural Gas,"38441     1238.9
+65918     2416.9
+115175     154.9
+Name: cap_added, dtype: float64",4.399719463
+63,1957,Natural Gas,"38718     1594.2
+66281     4339.0
+115655     150.8
+Name: cap_added, dtype: float64",4.957644331
+64,1958,Natural Gas,"38996     2749.4
+66645     6600.5
+116136     157.6
+Name: cap_added, dtype: float64",4.921925212
+65,1959,Natural Gas,"39275     1740.8
+67010     7812.4
+116618     151.3
+Name: cap_added, dtype: float64",5.296266651
+66,1960,Natural Gas,"39555     1639.5
+67376     6029.9
+117101      91.0
+Name: cap_added, dtype: float64",5.811483454
+67,1961,Natural Gas,"39836     3493.3
+67743     4941.5
+117585     147.5
+Name: cap_added, dtype: float64",6.185359566
+68,1962,Natural Gas,"40118     2429.5
+68111     4129.6
+118070     118.2
+Name: cap_added, dtype: float64",6.674852104
+69,1963,Natural Gas,"40401     2946.5
+68480     4936.3
+118556      66.1
+Name: cap_added, dtype: float64",7.015526859
+70,1964,Natural Gas,"40685     2307.7
+68850     5174.7
+119043     136.5
+Name: cap_added, dtype: float64",7.377820506
+71,1965,Natural Gas,"40970     1604.8
+69221     5984.4
+119531     296.7
+Name: cap_added, dtype: float64",7.811774879
+72,1966,Natural Gas,"41256     1414.2
+69593     4475.0
+120020     171.4
+Name: cap_added, dtype: float64",8.194935845
+73,1967,Natural Gas,"41543     2432.3
+69966     8305.7
+120510     181.2
+Name: cap_added, dtype: float64",8.173573606
+74,1968,Natural Gas,"41831      1958.2
+70340     10427.0
+121001      217.8
+Name: cap_added, dtype: float64",8.479129521
+75,1969,Natural Gas,"42120      1907.1
+70715     13372.5
+121493      358.5
+156735     1191.8
+Name: cap_added, dtype: float64",8.758587807
+76,1970,Natural Gas,"42410      1134.8
+71091     11146.0
+121986      117.8
+157295     1257.0
+Name: cap_added, dtype: float64",8.953596109
+77,1971,Natural Gas,"42701      1187.4
+71468     14219.2
+89046       110.0
+122480       98.0
+157856     1453.6
+Name: cap_added, dtype: float64",8.980596973
+78,1972,Natural Gas,"42993       220.8
+71846     11763.8
+89468       110.0
+122975       86.5
+158418     4412.9
+Name: cap_added, dtype: float64",9.228462761
+79,1973,Natural Gas,"43286      1260.8
+72225     12733.0
+89891       110.0
+123471        5.0
+158981     2996.2
+Name: cap_added, dtype: float64",9.519947951
+80,1974,Natural Gas,"43580      554.0
+72605     9516.6
+123968      49.5
+159545    5650.5
+Name: cap_added, dtype: float64",9.654636526
+81,1975,Natural Gas,"43875     2030.5
+72986     8961.8
+90315      110.0
+160110    3364.5
+165815      16.5
+Name: cap_added, dtype: float64",9.94163918
+82,1976,Natural Gas,"44171     1615.3
+73368     8893.4
+124466     245.1
+160676    1805.4
+Name: cap_added, dtype: float64",10.62131366
+83,1977,Natural Gas,"44468       519.4
+73751     12617.6
+124965      376.3
+161243     3614.5
+Name: cap_added, dtype: float64",11.14210704
+84,1978,Natural Gas,"44766      2321.6
+74135     12288.5
+125465      145.1
+161811      979.7
+Name: cap_added, dtype: float64",11.8022927
+85,1979,Natural Gas,"45065      2127.1
+74520     10727.5
+90740       110.0
+125966      266.0
+162380      864.7
+Name: cap_added, dtype: float64",12.56710598
+86,1980,Natural Gas,"45365      1226.9
+74906     14737.4
+91166       251.0
+126468      341.3
+162950     1922.2
+Name: cap_added, dtype: float64",13.5321323
+87,1981,Natural Gas,"45666       278.8
+75293     10502.8
+126971      404.8
+163521      888.2
+166391       22.4
+Name: cap_added, dtype: float64",14.45423249
+88,1982,Natural Gas,"45968       656.8
+75681     12388.7
+91593       128.0
+127475      428.8
+166968       19.5
+Name: cap_added, dtype: float64",15.34479019
+89,1983,Natural Gas,"46271      721.7
+76070     6710.7
+92021      306.0
+127980     333.0
+167546     378.2
+Name: cap_added, dtype: float64",16.24651454
+90,1984,Natural Gas,"46575      632.1
+76460     9809.6
+92450      217.7
+128486     495.1
+144668      14.8
+168125     149.2
+Name: cap_added, dtype: float64",17.12796281
+91,1985,Natural Gas,"46880     1220.2
+76851     7353.2
+92880      465.6
+128993     642.1
+145206      30.0
+168705     140.8
+Name: cap_added, dtype: float64",17.93199081
+92,1986,Natural Gas,"47186      632.9
+77243     6402.5
+93311       87.4
+129501     517.3
+145745      69.4
+169286      85.6
+Name: cap_added, dtype: float64",18.76505527
+93,1987,Natural Gas,"47493      276.8
+77636     4200.1
+93743       64.6
+130010    1013.0
+146285      34.5
+164093    1874.3
+169868     119.2
+Name: cap_added, dtype: float64",19.45898318
+94,1988,Natural Gas,"47801      539.9
+78030     1909.8
+94176      289.2
+130520     869.1
+146826      70.4
+170451      27.0
+Name: cap_added, dtype: float64",20.12022089
+95,1989,Natural Gas,"48110      575.1
+78425     1886.3
+94610      328.9
+131031    1012.5
+147368      92.0
+171035      98.8
+Name: cap_added, dtype: float64",20.62769077
+96,1990,Natural Gas,"48420      464.0
+78821     2229.4
+95045       87.5
+131543     800.1
+147911      92.0
+171620     113.2
+Name: cap_added, dtype: float64",21.00449174
+97,1991,Natural Gas,"48731      167.2
+79218     1896.3
+132056    1058.9
+172206      76.9
+Name: cap_added, dtype: float64",21.59033847
+98,1992,Natural Gas,"49043      201.1
+79616     1448.3
+95481       97.8
+132570     477.4
+172793       6.9
+Name: cap_added, dtype: float64",21.96574435
+99,1993,Natural Gas,"49356     158.9
+80015     192.8
+95918      48.0
+133085    497.6
+173381      4.2
+Name: cap_added, dtype: float64",22.3553787
+100,1994,Natural Gas,"49670      276.9
+80415     1055.0
+133601     376.3
+173970     124.4
+Name: cap_added, dtype: float64",22.27234589
+101,1995,Natural Gas,"49985      123.2
+80816     2624.4
+134118     471.6
+174560      30.0
+Name: cap_added, dtype: float64",22.52182356
+102,1996,Natural Gas,"50301       60.7
+81218     1913.3
+96356       47.5
+134636     482.7
+Name: cap_added, dtype: float64",23.05063483
+103,1997,Natural Gas,"50618      62.5
+81621      90.0
+135155    377.4
+175151     19.8
+Name: cap_added, dtype: float64",23.57281943
+104,1998,Natural Gas,"50936       2.9
+82025       3.5
+96795      60.5
+135675    295.9
+148455      0.1
+175743    177.4
+Name: cap_added, dtype: float64",24.33582783
+105,1999,Natural Gas,"51255     188.6
+82430     328.2
+136196    160.6
+149000      0.1
+176336    697.8
+Name: cap_added, dtype: float64",24.28643346
+106,2000,Natural Gas,"51575       3.7
+82836     130.5
+97235      69.8
+136718    138.2
+176930     56.1
+Name: cap_added, dtype: float64",22.34433727
+107,2001,Natural Gas,"51896      150.1
+83243      519.7
+137241     466.3
+149546       4.7
+177525    1516.0
+Name: cap_added, dtype: float64",20.02905777
+108,2002,Natural Gas,"52218      17.8
+83651       0.0
+97676       7.3
+137765    234.0
+150093      2.1
+178121    661.0
+Name: cap_added, dtype: float64",17.31495315
+109,2003,Natural Gas,"52541       82.5
+84060       90.9
+98118       24.0
+138290     428.9
+150641       0.2
+178718    1609.2
+Name: cap_added, dtype: float64",16.08395308
+110,2004,Natural Gas,"52865      79.2
+84470     617.0
+138816    140.2
+179316    392.6
+Name: cap_added, dtype: float64",16.12127985
+111,2005,Natural Gas,"53190       30.4
+84881      477.7
+98561       30.0
+139343     158.6
+151190       2.5
+179915    2160.8
+Name: cap_added, dtype: float64",16.48748291
+112,2006,Natural Gas,"53516       21.4
+85293      580.7
+99005       52.5
+139871     364.8
+151740       1.4
+180515    2661.3
+Name: cap_added, dtype: float64",17.09079144
+113,2007,Natural Gas,"53843       21.6
+85706     1513.5
+99450       56.7
+140400     330.7
+152291     109.5
+181116    5283.8
+Name: cap_added, dtype: float64",17.77143604
+114,2008,Natural Gas,"54171       19.7
+86120     1584.0
+99896       64.0
+140930     351.5
+152843      34.6
+181718    8497.4
+Name: cap_added, dtype: float64",18.40660828
+115,2009,Natural Gas,"54500       26.1
+86535     1954.1
+100343     212.7
+141461     476.4
+153396     108.9
+182321    9921.5
+Name: cap_added, dtype: float64",18.95601123
+116,2010,Natural Gas,"54830       21.5
+86951     5836.0
+100791      23.5
+141993     362.9
+153950     238.3
+182925    4683.5
+Name: cap_added, dtype: float64",19.6251793
+117,2011,Natural Gas,"55161      161.0
+87368     4253.1
+101240       6.8
+142526     528.0
+154505     763.2
+183530    6882.8
+Name: cap_added, dtype: float64",20.16009697
+118,2012,Natural Gas,"55493       352.9
+87786      3952.5
+101690      191.8
+143060      561.3
+155061     1578.3
+184136    13270.3
+Name: cap_added, dtype: float64",20.70657827
+119,2013,Natural Gas,"55826      428.5
+88205      804.5
+102141      91.0
+143595     908.7
+155618    3511.2
+164666       0.0
+184743     859.1
+Name: cap_added, dtype: float64",21.3395138
+120,2014,Natural Gas,"56160      177.9
+88625      106.2
+102593      20.0
+144131     278.1
+156176    3692.7
+165240       0.0
+185351    4685.5
+Name: cap_added, dtype: float64",21.89234479
+121,1891,Petroleum,"23435    3.9
+Name: cap_added, dtype: float64",NaN
+122,1893,Petroleum,"23651    0.8
+Name: cap_added, dtype: float64",NaN
+123,1896,Petroleum,"23868    4.8
+Name: cap_added, dtype: float64",NaN
+124,1898,Petroleum,"24086    6.3
+Name: cap_added, dtype: float64",NaN
+125,1899,Petroleum,"24305    3.2
+Name: cap_added, dtype: float64",NaN
+126,1900,Petroleum,"24525    9.2
+Name: cap_added, dtype: float64",NaN
+127,1901,Petroleum,"24746    4.3
+Name: cap_added, dtype: float64",NaN
+128,1902,Petroleum,"24968    2.4
+Name: cap_added, dtype: float64",NaN
+129,1903,Petroleum,"25191    45.6
+Name: cap_added, dtype: float64",NaN
+130,1904,Petroleum,"25415    29.6
+Name: cap_added, dtype: float64",NaN
+131,1905,Petroleum,"25640    37.6
+Name: cap_added, dtype: float64",NaN
+132,1906,Petroleum,"25866    33.1
+Name: cap_added, dtype: float64",NaN
+133,1907,Petroleum,"26093    122.1
+Name: cap_added, dtype: float64",NaN
+134,1908,Petroleum,"26321    54.1
+Name: cap_added, dtype: float64",NaN
+135,1909,Petroleum,"26550    74.4
+Name: cap_added, dtype: float64",NaN
+136,1910,Petroleum,"26780    174.6
+Name: cap_added, dtype: float64",NaN
+137,1911,Petroleum,"27011    143.6
+Name: cap_added, dtype: float64",NaN
+138,1912,Petroleum,"27243    208.7
+Name: cap_added, dtype: float64",NaN
+139,1913,Petroleum,"27476    347.2
+Name: cap_added, dtype: float64",NaN
+140,1914,Petroleum,"27710    147.7
+Name: cap_added, dtype: float64",NaN
+141,1915,Petroleum,"27945    253.7
+Name: cap_added, dtype: float64",NaN
+142,1916,Petroleum,"28181    168.8
+Name: cap_added, dtype: float64",NaN
+143,1917,Petroleum,"28418    266.9
+Name: cap_added, dtype: float64",NaN
+144,1918,Petroleum,"28656    188.9
+Name: cap_added, dtype: float64",NaN
+145,1919,Petroleum,"28895    279.3
+Name: cap_added, dtype: float64",NaN
+146,1920,Petroleum,"29135    159.0
+Name: cap_added, dtype: float64",NaN
+147,1921,Petroleum,"29376    294.2
+56495     10.0
+Name: cap_added, dtype: float64",NaN
+148,1922,Petroleum,"29618    179.2
+Name: cap_added, dtype: float64",NaN
+149,1923,Petroleum,"29861    409.4
+Name: cap_added, dtype: float64",90
+150,1924,Petroleum,"30105    543.6
+Name: cap_added, dtype: float64",88
+151,1925,Petroleum,"30350     732.4
+56831      20.0
+103046      2.0
+Name: cap_added, dtype: float64",NaN
+152,1926,Petroleum,"30596     281.7
+103500     11.2
+Name: cap_added, dtype: float64",NaN
+153,1927,Petroleum,"30843     460.4
+103955      8.0
+Name: cap_added, dtype: float64",88.8381877
+154,1928,Petroleum,"31091     1003.5
+104411      67.5
+Name: cap_added, dtype: float64",85.07739938
+155,1929,Petroleum,"31340     260.7
+57168      25.0
+104868      6.0
+Name: cap_added, dtype: float64",84.40184049
+156,1930,Petroleum,"31590     792.6
+57506      66.7
+105326      9.5
+Name: cap_added, dtype: float64",77.67676768
+157,1931,Petroleum,"31841     626.8
+105785     11.2
+Name: cap_added, dtype: float64",76.44038294
+158,1932,Petroleum,"32093    272.3
+Name: cap_added, dtype: float64",76.64781491
+159,1933,Petroleum,"32346    37.8
+57845     3.0
+Name: cap_added, dtype: float64",61.80777096
+160,1934,Petroleum,"32600     37.6
+58185      3.0
+106245     3.0
+Name: cap_added, dtype: float64",62.34703504
+161,1935,Petroleum,"32855    81.1
+58526    89.9
+Name: cap_added, dtype: float64",63.16058394
+162,1936,Petroleum,"33111     825.4
+58868       9.0
+106706     14.5
+Name: cap_added, dtype: float64",62.77699229
+163,1937,Petroleum,"33368     355.2
+59211      20.8
+107168      8.7
+Name: cap_added, dtype: float64",62.9544035
+164,1938,Petroleum,"33626     691.6
+59555      25.0
+107631     30.5
+Name: cap_added, dtype: float64",62.93602897
+165,1939,Petroleum,"33885     504.6
+59900      65.6
+108095     20.0
+Name: cap_added, dtype: float64",61.97787611
+166,1940,Petroleum,"34145     442.6
+60246     137.5
+108560     22.7
+Name: cap_added, dtype: float64",61.94775726
+167,1941,Petroleum,"34406     752.6
+60593     134.8
+109026     23.5
+Name: cap_added, dtype: float64",64.59267376
+168,1942,Petroleum,"34668     1109.4
+60941      292.0
+109493      52.5
+Name: cap_added, dtype: float64",63.10360687
+169,1943,Petroleum,"34931     1102.4
+61290      479.2
+109961      87.5
+Name: cap_added, dtype: float64",61.78191856
+170,1944,Petroleum,"35195    1013.6
+61640     172.5
+Name: cap_added, dtype: float64",62.99333767
+171,1945,Petroleum,"35460     365.6
+61991      77.5
+110430     11.0
+Name: cap_added, dtype: float64",63.06763147
+172,1946,Petroleum,"35726    58.9
+62343    50.0
+Name: cap_added, dtype: float64",62.70669237
+173,1947,Petroleum,"35993     169.0
+62696     312.4
+110900     60.5
+Name: cap_added, dtype: float64",59.94608394
+174,1948,Petroleum,"36261     803.1
+63050     723.9
+111371    109.7
+Name: cap_added, dtype: float64",57.08829906
+175,1949,Petroleum,"36530     1245.8
+63405     1367.4
+111843     118.3
+Name: cap_added, dtype: float64",57.64403061
+176,1950,Petroleum,"36800     1201.8
+63761     1575.8
+112316     134.3
+Name: cap_added, dtype: float64",55.93394096
+177,1951,Petroleum,"37071     1372.0
+64118     1870.8
+112790     168.2
+Name: cap_added, dtype: float64",52.04699693
+178,1952,Petroleum,"37343     1692.8
+64476     3132.0
+113265     133.6
+Name: cap_added, dtype: float64",51.35590418
+179,1953,Petroleum,"37616     1966.3
+64835     4800.9
+113741      73.1
+Name: cap_added, dtype: float64",50.78639606
+180,1954,Petroleum,"37890     1282.9
+65195     6552.6
+114218     136.0
+Name: cap_added, dtype: float64",48.64311943
+181,1955,Petroleum,"38165     1743.5
+65556     7292.8
+114696     193.3
+Name: cap_added, dtype: float64",46.56603172
+182,1956,Petroleum,"38441     1238.9
+65918     2416.9
+115175     154.9
+Name: cap_added, dtype: float64",47.56329773
+183,1957,Petroleum,"38718     1594.2
+66281     4339.0
+115655     150.8
+Name: cap_added, dtype: float64",48.50237966
+184,1958,Petroleum,"38996     2749.4
+66645     6600.5
+116136     157.6
+Name: cap_added, dtype: float64",48.45922353
+185,1959,Petroleum,"39275     1740.8
+67010     7812.4
+116618     151.3
+Name: cap_added, dtype: float64",46.01253145
+186,1960,Petroleum,"39555     1639.5
+67376     6029.9
+117101      91.0
+Name: cap_added, dtype: float64",47.17462654
+187,1961,Petroleum,"39836     3493.3
+67743     4941.5
+117585     147.5
+Name: cap_added, dtype: float64",48.03735213
+188,1962,Petroleum,"40118     2429.5
+68111     4129.6
+118070     118.2
+Name: cap_added, dtype: float64",48.81179124
+189,1963,Petroleum,"40401     2946.5
+68480     4936.3
+118556      66.1
+Name: cap_added, dtype: float64",49.08801605
+190,1964,Petroleum,"40685     2307.7
+68850     5174.7
+119043     136.5
+Name: cap_added, dtype: float64",48.36639359
+191,1965,Petroleum,"40970     1604.8
+69221     5984.4
+119531     296.7
+Name: cap_added, dtype: float64",48.21620733
+192,1966,Petroleum,"41256     1414.2
+69593     4475.0
+120020     171.4
+Name: cap_added, dtype: float64",46.92291569
+193,1967,Petroleum,"41543     2432.3
+69966     8305.7
+120510     181.2
+Name: cap_added, dtype: float64",44.18764841
+194,1968,Petroleum,"41831      1958.2
+70340     10427.0
+121001      217.8
+Name: cap_added, dtype: float64",40.08529542
+195,1969,Petroleum,"42120      1907.1
+70715     13372.5
+121493      358.5
+156735     1191.8
+Name: cap_added, dtype: float64",39.43237411
+196,1970,Petroleum,"42410      1134.8
+71091     11146.0
+121986      117.8
+157295     1257.0
+Name: cap_added, dtype: float64",38.21897227
+197,1971,Petroleum,"42701      1187.4
+71468     14219.2
+89046       110.0
+122480       98.0
+157856     1453.6
+Name: cap_added, dtype: float64",36.33872016
+198,1972,Petroleum,"42993       220.8
+71846     11763.8
+89468       110.0
+122975       86.5
+158418     4412.9
+Name: cap_added, dtype: float64",33.54700124
+199,1973,Petroleum,"43286      1260.8
+72225     12733.0
+89891       110.0
+123471        5.0
+158981     2996.2
+Name: cap_added, dtype: float64",32.69437948
+200,1974,Petroleum,"43580      554.0
+72605     9516.6
+123968      49.5
+159545    5650.5
+Name: cap_added, dtype: float64",28.97531935
+201,1975,Petroleum,"43875     2030.5
+72986     8961.8
+90315      110.0
+160110    3364.5
+165815      16.5
+Name: cap_added, dtype: float64",27.86402002
+202,1976,Petroleum,"44171     1615.3
+73368     8893.4
+124466     245.1
+160676    1805.4
+Name: cap_added, dtype: float64",27.8723672
+203,1977,Petroleum,"44468       519.4
+73751     12617.6
+124965      376.3
+161243     3614.5
+Name: cap_added, dtype: float64",28.85066567
+204,1978,Petroleum,"44766      2321.6
+74135     12288.5
+125465      145.1
+161811      979.7
+Name: cap_added, dtype: float64",29.33294781
+205,1979,Petroleum,"45065      2127.1
+74520     10727.5
+90740       110.0
+125966      266.0
+162380      864.7
+Name: cap_added, dtype: float64",30.36030571
+206,1980,Petroleum,"45365      1226.9
+74906     14737.4
+91166       251.0
+126468      341.3
+162950     1922.2
+Name: cap_added, dtype: float64",31.32887885
+207,1981,Petroleum,"45666       278.8
+75293     10502.8
+126971      404.8
+163521      888.2
+166391       22.4
+Name: cap_added, dtype: float64",31.75052859
+208,1982,Petroleum,"45968       656.8
+75681     12388.7
+91593       128.0
+127475      428.8
+166968       19.5
+Name: cap_added, dtype: float64",33.32664452
+209,1983,Petroleum,"46271      721.7
+76070     6710.7
+92021      306.0
+127980     333.0
+167546     378.2
+Name: cap_added, dtype: float64",34.98695922
+210,1984,Petroleum,"46575      632.1
+76460     9809.6
+92450      217.7
+128486     495.1
+144668      14.8
+168125     149.2
+Name: cap_added, dtype: float64",36.64378667
+211,1985,Petroleum,"46880     1220.2
+76851     7353.2
+92880      465.6
+128993     642.1
+145206      30.0
+168705     140.8
+Name: cap_added, dtype: float64",38.29143319
+212,1986,Petroleum,"47186      632.9
+77243     6402.5
+93311       87.4
+129501     517.3
+145745      69.4
+169286      85.6
+Name: cap_added, dtype: float64",39.96372025
+213,1987,Petroleum,"47493      276.8
+77636     4200.1
+93743       64.6
+130010    1013.0
+146285      34.5
+164093    1874.3
+169868     119.2
+Name: cap_added, dtype: float64",41.6322869
+214,1988,Petroleum,"47801      539.9
+78030     1909.8
+94176      289.2
+130520     869.1
+146826      70.4
+170451      27.0
+Name: cap_added, dtype: float64",43.24346964
+215,1989,Petroleum,"48110      575.1
+78425     1886.3
+94610      328.9
+131031    1012.5
+147368      92.0
+171035      98.8
+Name: cap_added, dtype: float64",44.52672336
+216,1990,Petroleum,"48420      464.0
+78821     2229.4
+95045       87.5
+131543     800.1
+147911      92.0
+171620     113.2
+Name: cap_added, dtype: float64",46.01572209
+217,1991,Petroleum,"48731      167.2
+79218     1896.3
+132056    1058.9
+172206      76.9
+Name: cap_added, dtype: float64",47.02460582
+218,1992,Petroleum,"49043      201.1
+79616     1448.3
+95481       97.8
+132570     477.4
+172793       6.9
+Name: cap_added, dtype: float64",48.51287941
+219,1993,Petroleum,"49356     158.9
+80015     192.8
+95918      48.0
+133085    497.6
+173381      4.2
+Name: cap_added, dtype: float64",50.12506326
+220,1994,Petroleum,"49670      276.9
+80415     1055.0
+133601     376.3
+173970     124.4
+Name: cap_added, dtype: float64",51.7597397
+221,1995,Petroleum,"49985      123.2
+80816     2624.4
+134118     471.6
+174560      30.0
+Name: cap_added, dtype: float64",53.12706526
+222,1996,Petroleum,"50301       60.7
+81218     1913.3
+96356       47.5
+134636     482.7
+Name: cap_added, dtype: float64",54.5714708
+223,1997,Petroleum,"50618      62.5
+81621      90.0
+135155    377.4
+175151     19.8
+Name: cap_added, dtype: float64",55.90373371
+224,1998,Petroleum,"50936       2.9
+82025       3.5
+96795      60.5
+135675    295.9
+148455      0.1
+175743    177.4
+Name: cap_added, dtype: float64",57.45789579
+225,1999,Petroleum,"51255     188.6
+82430     328.2
+136196    160.6
+149000      0.1
+176336    697.8
+Name: cap_added, dtype: float64",58.93697637
+226,2000,Petroleum,"51575       3.7
+82836     130.5
+97235      69.8
+136718    138.2
+176930     56.1
+Name: cap_added, dtype: float64",59.96607519
+227,2001,Petroleum,"51896      150.1
+83243      519.7
+137241     466.3
+149546       4.7
+177525    1516.0
+Name: cap_added, dtype: float64",60.97911323
+228,2002,Petroleum,"52218      17.8
+83651       0.0
+97676       7.3
+137765    234.0
+150093      2.1
+178121    661.0
+Name: cap_added, dtype: float64",62.25805218
+229,2003,Petroleum,"52541       82.5
+84060       90.9
+98118       24.0
+138290     428.9
+150641       0.2
+178718    1609.2
+Name: cap_added, dtype: float64",63.52669678
+230,2004,Petroleum,"52865      79.2
+84470     617.0
+138816    140.2
+179316    392.6
+Name: cap_added, dtype: float64",64.87578617
+231,2005,Petroleum,"53190       30.4
+84881      477.7
+98561       30.0
+139343     158.6
+151190       2.5
+179915    2160.8
+Name: cap_added, dtype: float64",66.34567773
+232,2006,Petroleum,"53516       21.4
+85293      580.7
+99005       52.5
+139871     364.8
+151740       1.4
+180515    2661.3
+Name: cap_added, dtype: float64",67.77034133
+233,2007,Petroleum,"53843       21.6
+85706     1513.5
+99450       56.7
+140400     330.7
+152291     109.5
+181116    5283.8
+Name: cap_added, dtype: float64",69.05334448
+234,2008,Petroleum,"54171       19.7
+86120     1584.0
+99896       64.0
+140930     351.5
+152843      34.6
+181718    8497.4
+Name: cap_added, dtype: float64",70.59471643
+235,2009,Petroleum,"54500       26.1
+86535     1954.1
+100343     212.7
+141461     476.4
+153396     108.9
+182321    9921.5
+Name: cap_added, dtype: float64",72.11722626
+236,2010,Petroleum,"54830       21.5
+86951     5836.0
+100791      23.5
+141993     362.9
+153950     238.3
+182925    4683.5
+Name: cap_added, dtype: float64",72.47658978
+237,2011,Petroleum,"55161      161.0
+87368     4253.1
+101240       6.8
+142526     528.0
+154505     763.2
+183530    6882.8
+Name: cap_added, dtype: float64",73.62502507
+238,2012,Petroleum,"55493       352.9
+87786      3952.5
+101690      191.8
+143060      561.3
+155061     1578.3
+184136    13270.3
+Name: cap_added, dtype: float64",74.91097989
+239,2013,Petroleum,"55826      428.5
+88205      804.5
+102141      91.0
+143595     908.7
+155618    3511.2
+164666       0.0
+184743     859.1
+Name: cap_added, dtype: float64",76.37467799
+240,2014,Petroleum,"56160      177.9
+88625      106.2
+102593      20.0
+144131     278.1
+156176    3692.7
+165240       0.0
+185351    4685.5
+Name: cap_added, dtype: float64",77.82857988
+241,1891,Storage,"23435    3.9
+Name: cap_added, dtype: float64",NaN
+242,1893,Storage,"23651    0.8
+Name: cap_added, dtype: float64",NaN
+243,1896,Storage,"23868    4.8
+Name: cap_added, dtype: float64",NaN
+244,1898,Storage,"24086    6.3
+Name: cap_added, dtype: float64",NaN
+245,1899,Storage,"24305    3.2
+Name: cap_added, dtype: float64",NaN
+246,1900,Storage,"24525    9.2
+Name: cap_added, dtype: float64",NaN
+247,1901,Storage,"24746    4.3
+Name: cap_added, dtype: float64",NaN
+248,1902,Storage,"24968    2.4
+Name: cap_added, dtype: float64",NaN
+249,1903,Storage,"25191    45.6
+Name: cap_added, dtype: float64",NaN
+250,1904,Storage,"25415    29.6
+Name: cap_added, dtype: float64",NaN
+251,1905,Storage,"25640    37.6
+Name: cap_added, dtype: float64",NaN
+252,1906,Storage,"25866    33.1
+Name: cap_added, dtype: float64",NaN
+253,1907,Storage,"26093    122.1
+Name: cap_added, dtype: float64",NaN
+254,1908,Storage,"26321    54.1
+Name: cap_added, dtype: float64",NaN
+255,1909,Storage,"26550    74.4
+Name: cap_added, dtype: float64",NaN
+256,1910,Storage,"26780    174.6
+Name: cap_added, dtype: float64",NaN
+257,1911,Storage,"27011    143.6
+Name: cap_added, dtype: float64",NaN
+258,1912,Storage,"27243    208.7
+Name: cap_added, dtype: float64",NaN
+259,1913,Storage,"27476    347.2
+Name: cap_added, dtype: float64",NaN
+260,1914,Storage,"27710    147.7
+Name: cap_added, dtype: float64",NaN
+261,1915,Storage,"27945    253.7
+Name: cap_added, dtype: float64",NaN
+262,1916,Storage,"28181    168.8
+Name: cap_added, dtype: float64",NaN
+263,1917,Storage,"28418    266.9
+Name: cap_added, dtype: float64",NaN
+264,1918,Storage,"28656    188.9
+Name: cap_added, dtype: float64",NaN
+265,1919,Storage,"28895    279.3
+Name: cap_added, dtype: float64",NaN
+266,1920,Storage,"29135    159.0
+Name: cap_added, dtype: float64",NaN
+267,1921,Storage,"29376    294.2
+56495     10.0
+Name: cap_added, dtype: float64",NaN
+268,1922,Storage,"29618    179.2
+Name: cap_added, dtype: float64",NaN
+269,1923,Storage,"29861    409.4
+Name: cap_added, dtype: float64",NaN
+270,1924,Storage,"30105    543.6
+Name: cap_added, dtype: float64",NaN
+271,1925,Storage,"30350     732.4
+56831      20.0
+103046      2.0
+Name: cap_added, dtype: float64",NaN
+272,1926,Storage,"30596     281.7
+103500     11.2
+Name: cap_added, dtype: float64",NaN
+273,1927,Storage,"30843     460.4
+103955      8.0
+Name: cap_added, dtype: float64",NaN
+274,1928,Storage,"31091     1003.5
+104411      67.5
+Name: cap_added, dtype: float64",3
+275,1929,Storage,"31340     260.7
+57168      25.0
+104868      6.0
+Name: cap_added, dtype: float64",5.661290323
+276,1930,Storage,"31590     792.6
+57506      66.7
+105326      9.5
+Name: cap_added, dtype: float64",NaN
+277,1931,Storage,"31841     626.8
+105785     11.2
+Name: cap_added, dtype: float64",NaN
+278,1932,Storage,"32093    272.3
+Name: cap_added, dtype: float64",NaN
+279,1933,Storage,"32346    37.8
+57845     3.0
+Name: cap_added, dtype: float64",NaN
+280,1934,Storage,"32600     37.6
+58185      3.0
+106245     3.0
+Name: cap_added, dtype: float64",NaN
+281,1935,Storage,"32855    81.1
+58526    89.9
+Name: cap_added, dtype: float64",NaN
+282,1936,Storage,"33111     825.4
+58868       9.0
+106706     14.5
+Name: cap_added, dtype: float64",NaN
+283,1937,Storage,"33368     355.2
+59211      20.8
+107168      8.7
+Name: cap_added, dtype: float64",NaN
+284,1938,Storage,"33626     691.6
+59555      25.0
+107631     30.5
+Name: cap_added, dtype: float64",NaN
+285,1939,Storage,"33885     504.6
+59900      65.6
+108095     20.0
+Name: cap_added, dtype: float64",NaN
+286,1940,Storage,"34145     442.6
+60246     137.5
+108560     22.7
+Name: cap_added, dtype: float64",NaN
+287,1941,Storage,"34406     752.6
+60593     134.8
+109026     23.5
+Name: cap_added, dtype: float64",NaN
+288,1942,Storage,"34668     1109.4
+60941      292.0
+109493      52.5
+Name: cap_added, dtype: float64",NaN
+289,1943,Storage,"34931     1102.4
+61290      479.2
+109961      87.5
+Name: cap_added, dtype: float64",NaN
+290,1944,Storage,"35195    1013.6
+61640     172.5
+Name: cap_added, dtype: float64",NaN
+291,1945,Storage,"35460     365.6
+61991      77.5
+110430     11.0
+Name: cap_added, dtype: float64",NaN
+292,1946,Storage,"35726    58.9
+62343    50.0
+Name: cap_added, dtype: float64",NaN
+293,1947,Storage,"35993     169.0
+62696     312.4
+110900     60.5
+Name: cap_added, dtype: float64",NaN
+294,1948,Storage,"36261     803.1
+63050     723.9
+111371    109.7
+Name: cap_added, dtype: float64",NaN
+295,1949,Storage,"36530     1245.8
+63405     1367.4
+111843     118.3
+Name: cap_added, dtype: float64",NaN
+296,1950,Storage,"36800     1201.8
+63761     1575.8
+112316     134.3
+Name: cap_added, dtype: float64",NaN
+297,1951,Storage,"37071     1372.0
+64118     1870.8
+112790     168.2
+Name: cap_added, dtype: float64",NaN
+298,1952,Storage,"37343     1692.8
+64476     3132.0
+113265     133.6
+Name: cap_added, dtype: float64",NaN
+299,1953,Storage,"37616     1966.3
+64835     4800.9
+113741      73.1
+Name: cap_added, dtype: float64",NaN
+300,1954,Storage,"37890     1282.9
+65195     6552.6
+114218     136.0
+Name: cap_added, dtype: float64",63.94936709
+301,1955,Storage,"38165     1743.5
+65556     7292.8
+114696     193.3
+Name: cap_added, dtype: float64",NaN
+302,1956,Storage,"38441     1238.9
+65918     2416.9
+115175     154.9
+Name: cap_added, dtype: float64",22.66171004
+303,1957,Storage,"38718     1594.2
+66281     4339.0
+115655     150.8
+Name: cap_added, dtype: float64",NaN
+304,1958,Storage,"38996     2749.4
+66645     6600.5
+116136     157.6
+Name: cap_added, dtype: float64",NaN
+305,1959,Storage,"39275     1740.8
+67010     7812.4
+116618     151.3
+Name: cap_added, dtype: float64",NaN
+306,1960,Storage,"39555     1639.5
+67376     6029.9
+117101      91.0
+Name: cap_added, dtype: float64",NaN
+307,1961,Storage,"39836     3493.3
+67743     4941.5
+117585     147.5
+Name: cap_added, dtype: float64",26.96915167
+308,1962,Storage,"40118     2429.5
+68111     4129.6
+118070     118.2
+Name: cap_added, dtype: float64",17.00667557
+309,1963,Storage,"40401     2946.5
+68480     4936.3
+118556      66.1
+Name: cap_added, dtype: float64",11.13929712
+310,1964,Storage,"40685     2307.7
+68850     5174.7
+119043     136.5
+Name: cap_added, dtype: float64",NaN
+311,1965,Storage,"40970     1604.8
+69221     5984.4
+119531     296.7
+Name: cap_added, dtype: float64",11.50096043
+312,1966,Storage,"41256     1414.2
+69593     4475.0
+120020     171.4
+Name: cap_added, dtype: float64",13.94588665
+313,1967,Storage,"41543     2432.3
+69966     8305.7
+120510     181.2
+Name: cap_added, dtype: float64",9.805966953
+314,1968,Storage,"41831      1958.2
+70340     10427.0
+121001      217.8
+Name: cap_added, dtype: float64",10.61017559
+315,1969,Storage,"42120      1907.1
+70715     13372.5
+121493      358.5
+156735     1191.8
+Name: cap_added, dtype: float64",13.33063668
+316,1970,Storage,"42410      1134.8
+71091     11146.0
+121986      117.8
+157295     1257.0
+Name: cap_added, dtype: float64",14.83395973
+317,1971,Storage,"42701      1187.4
+71468     14219.2
+89046       110.0
+122480       98.0
+157856     1453.6
+Name: cap_added, dtype: float64",17.16169211
+318,1972,Storage,"42993       220.8
+71846     11763.8
+89468       110.0
+122975       86.5
+158418     4412.9
+Name: cap_added, dtype: float64",18.8476912
+319,1973,Storage,"43286      1260.8
+72225     12733.0
+89891       110.0
+123471        5.0
+158981     2996.2
+Name: cap_added, dtype: float64",12.72831747
+320,1974,Storage,"43580      554.0
+72605     9516.6
+123968      49.5
+159545    5650.5
+Name: cap_added, dtype: float64",14.62532832
+321,1975,Storage,"43875     2030.5
+72986     8961.8
+90315      110.0
+160110    3364.5
+165815      16.5
+Name: cap_added, dtype: float64",17.08308904
+322,1976,Storage,"44171     1615.3
+73368     8893.4
+124466     245.1
+160676    1805.4
+Name: cap_added, dtype: float64",NaN
+323,1977,Storage,"44468       519.4
+73751     12617.6
+124965      376.3
+161243     3614.5
+Name: cap_added, dtype: float64",21.66674681
+324,1978,Storage,"44766      2321.6
+74135     12288.5
+125465      145.1
+161811      979.7
+Name: cap_added, dtype: float64",22.14141978
+325,1979,Storage,"45065      2127.1
+74520     10727.5
+90740       110.0
+125966      266.0
+162380      864.7
+Name: cap_added, dtype: float64",22.99540356
+326,1980,Storage,"45365      1226.9
+74906     14737.4
+91166       251.0
+126468      341.3
+162950     1922.2
+Name: cap_added, dtype: float64",25.559632
+327,1981,Storage,"45666       278.8
+75293     10502.8
+126971      404.8
+163521      888.2
+166391       22.4
+Name: cap_added, dtype: float64",28.33555327
+328,1982,Storage,"45968       656.8
+75681     12388.7
+91593       128.0
+127475      428.8
+166968       19.5
+Name: cap_added, dtype: float64",31.12647351
+329,1983,Storage,"46271      721.7
+76070     6710.7
+92021      306.0
+127980     333.0
+167546     378.2
+Name: cap_added, dtype: float64",33.78761446
+330,1984,Storage,"46575      632.1
+76460     9809.6
+92450      217.7
+128486     495.1
+144668      14.8
+168125     149.2
+Name: cap_added, dtype: float64",34.17116486
+331,1985,Storage,"46880     1220.2
+76851     7353.2
+92880      465.6
+128993     642.1
+145206      30.0
+168705     140.8
+Name: cap_added, dtype: float64",31.98088364
+332,1986,Storage,"47186      632.9
+77243     6402.5
+93311       87.4
+129501     517.3
+145745      69.4
+169286      85.6
+Name: cap_added, dtype: float64",NaN
+333,1987,Storage,"47493      276.8
+77636     4200.1
+93743       64.6
+130010    1013.0
+146285      34.5
+164093    1874.3
+169868     119.2
+Name: cap_added, dtype: float64",37.61384917
+334,1988,Storage,"47801      539.9
+78030     1909.8
+94176      289.2
+130520     869.1
+146826      70.4
+170451      27.0
+Name: cap_added, dtype: float64",NaN
+335,1989,Storage,"48110      575.1
+78425     1886.3
+94610      328.9
+131031    1012.5
+147368      92.0
+171035      98.8
+Name: cap_added, dtype: float64",NaN
+336,1990,Storage,"48420      464.0
+78821     2229.4
+95045       87.5
+131543     800.1
+147911      92.0
+171620     113.2
+Name: cap_added, dtype: float64",NaN
+337,1991,Storage,"48731      167.2
+79218     1896.3
+132056    1058.9
+172206      76.9
+Name: cap_added, dtype: float64",46.64351494
+338,1992,Storage,"49043      201.1
+79616     1448.3
+95481       97.8
+132570     477.4
+172793       6.9
+Name: cap_added, dtype: float64",NaN
+339,1993,Storage,"49356     158.9
+80015     192.8
+95918      48.0
+133085    497.6
+173381      4.2
+Name: cap_added, dtype: float64",52.53294544
+340,1994,Storage,"49670      276.9
+80415     1055.0
+133601     376.3
+173970     124.4
+Name: cap_added, dtype: float64",NaN
+341,1995,Storage,"49985      123.2
+80816     2624.4
+134118     471.6
+174560      30.0
+Name: cap_added, dtype: float64",56.31544639
+342,1996,Storage,"50301       60.7
+81218     1913.3
+96356       47.5
+134636     482.7
+Name: cap_added, dtype: float64",NaN
+343,1997,Storage,"50618      62.5
+81621      90.0
+135155    377.4
+175151     19.8
+Name: cap_added, dtype: float64",NaN
+344,1998,Storage,"50936       2.9
+82025       3.5
+96795      60.5
+135675    295.9
+148455      0.1
+175743    177.4
+Name: cap_added, dtype: float64",NaN
+345,1999,Storage,"51255     188.6
+82430     328.2
+136196    160.6
+149000      0.1
+176336    697.8
+Name: cap_added, dtype: float64",NaN
+346,2000,Storage,"51575       3.7
+82836     130.5
+97235      69.8
+136718    138.2
+176930     56.1
+Name: cap_added, dtype: float64",NaN
+347,2001,Storage,"51896      150.1
+83243      519.7
+137241     466.3
+149546       4.7
+177525    1516.0
+Name: cap_added, dtype: float64",NaN
+348,2002,Storage,"52218      17.8
+83651       0.0
+97676       7.3
+137765    234.0
+150093      2.1
+178121    661.0
+Name: cap_added, dtype: float64",76.18483267
+349,2003,Storage,"52541       82.5
+84060       90.9
+98118       24.0
+138290     428.9
+150641       0.2
+178718    1609.2
+Name: cap_added, dtype: float64",79.08954207
+350,2004,Storage,"52865      79.2
+84470     617.0
+138816    140.2
+179316    392.6
+Name: cap_added, dtype: float64",NaN
+351,2005,Storage,"53190       30.4
+84881      477.7
+98561       30.0
+139343     158.6
+151190       2.5
+179915    2160.8
+Name: cap_added, dtype: float64",NaN
+352,2006,Storage,"53516       21.4
+85293      580.7
+99005       52.5
+139871     364.8
+151740       1.4
+180515    2661.3
+Name: cap_added, dtype: float64",NaN
+353,2007,Storage,"53843       21.6
+85706     1513.5
+99450       56.7
+140400     330.7
+152291     109.5
+181116    5283.8
+Name: cap_added, dtype: float64",NaN
+354,2008,Storage,"54171       19.7
+86120     1584.0
+99896       64.0
+140930     351.5
+152843      34.6
+181718    8497.4
+Name: cap_added, dtype: float64",94.08532252
+355,2009,Storage,"54500       26.1
+86535     1954.1
+100343     212.7
+141461     476.4
+153396     108.9
+182321    9921.5
+Name: cap_added, dtype: float64",97.06789246
+356,2010,Storage,"54830       21.5
+86951     5836.0
+100791      23.5
+141993     362.9
+153950     238.3
+182925    4683.5
+Name: cap_added, dtype: float64",NaN
+357,2011,Storage,"55161      161.0
+87368     4253.1
+101240       6.8
+142526     528.0
+154505     763.2
+183530    6882.8
+Name: cap_added, dtype: float64",102.7560355
+358,2012,Storage,"55493       352.9
+87786      3952.5
+101690      191.8
+143060      561.3
+155061     1578.3
+184136    13270.3
+Name: cap_added, dtype: float64",105.2504629
+359,2013,Storage,"55826      428.5
+88205      804.5
+102141      91.0
+143595     908.7
+155618    3511.2
+164666       0.0
+184743     859.1
+Name: cap_added, dtype: float64",108.0139172
+360,2014,Storage,"56160      177.9
+88625      106.2
+102593      20.0
+144131     278.1
+156176    3692.7
+165240       0.0
+185351    4685.5
+Name: cap_added, dtype: float64",110.9920527
+361,1891,Hydropower,"23435    3.9
+Name: cap_added, dtype: float64",1
+362,1893,Hydropower,"23651    0.8
+Name: cap_added, dtype: float64",2.659574468
+363,1896,Hydropower,"23868    4.8
+Name: cap_added, dtype: float64",11.89473684
+364,1898,Hydropower,"24086    6.3
+Name: cap_added, dtype: float64",8.651898734
+365,1899,Hydropower,"24305    3.2
+Name: cap_added, dtype: float64",8.152631579
+366,1900,Hydropower,"24525    9.2
+Name: cap_added, dtype: float64",6.464539007
+367,1901,Hydropower,"24746    4.3
+Name: cap_added, dtype: float64",11.70461538
+368,1902,Hydropower,"24968    2.4
+Name: cap_added, dtype: float64",21.28653295
+369,1903,Hydropower,"25191    45.6
+Name: cap_added, dtype: float64",10.16149068
+370,1904,Hydropower,"25415    29.6
+Name: cap_added, dtype: float64",8.380563124
+371,1905,Hydropower,"25640    37.6
+Name: cap_added, dtype: float64",15.88896412
+372,1906,Hydropower,"25866    33.1
+Name: cap_added, dtype: float64",13.87997788
+373,1907,Hydropower,"26093    122.1
+Name: cap_added, dtype: float64",12.78276659
+374,1908,Hydropower,"26321    54.1
+Name: cap_added, dtype: float64",18.36890756
+375,1909,Hydropower,"26550    74.4
+Name: cap_added, dtype: float64",18.70630505
+376,1910,Hydropower,"26780    174.6
+Name: cap_added, dtype: float64",31.95957096
+377,1911,Hydropower,"27011    143.6
+Name: cap_added, dtype: float64",32.9731857
+378,1912,Hydropower,"27243    208.7
+Name: cap_added, dtype: float64",38.27569655
+379,1913,Hydropower,"27476    347.2
+Name: cap_added, dtype: float64",32.69827652
+380,1914,Hydropower,"27710    147.7
+Name: cap_added, dtype: float64",31.40895954
+381,1915,Hydropower,"27945    253.7
+Name: cap_added, dtype: float64",27.64004921
+382,1916,Hydropower,"28181    168.8
+Name: cap_added, dtype: float64",26.25926321
+383,1917,Hydropower,"28418    266.9
+Name: cap_added, dtype: float64",26.06520116
+384,1918,Hydropower,"28656    188.9
+Name: cap_added, dtype: float64",26.31490457
+385,1919,Hydropower,"28895    279.3
+Name: cap_added, dtype: float64",32.85521679
+386,1920,Hydropower,"29135    159.0
+Name: cap_added, dtype: float64",32.91262907
+387,1921,Hydropower,"29376    294.2
+56495     10.0
+Name: cap_added, dtype: float64",30.57633812
+388,1922,Hydropower,"29618    179.2
+Name: cap_added, dtype: float64",30.66662556
+389,1923,Hydropower,"29861    409.4
+Name: cap_added, dtype: float64",28.54643268
+390,1924,Hydropower,"30105    543.6
+Name: cap_added, dtype: float64",26.70432773
+391,1925,Hydropower,"30350     732.4
+56831      20.0
+103046      2.0
+Name: cap_added, dtype: float64",23.94949884
+392,1926,Hydropower,"30596     281.7
+103500     11.2
+Name: cap_added, dtype: float64",23.91065774
+393,1927,Hydropower,"30843     460.4
+103955      8.0
+Name: cap_added, dtype: float64",24.01823408
+394,1928,Hydropower,"31091     1003.5
+104411      67.5
+Name: cap_added, dtype: float64",22.16782536
+395,1929,Hydropower,"31340     260.7
+57168      25.0
+104868      6.0
+Name: cap_added, dtype: float64",23.132273
+396,1930,Hydropower,"31590     792.6
+57506      66.7
+105326      9.5
+Name: cap_added, dtype: float64",22.78800388
+397,1931,Hydropower,"31841     626.8
+105785     11.2
+Name: cap_added, dtype: float64",23.00398597
+398,1932,Hydropower,"32093    272.3
+Name: cap_added, dtype: float64",24.20590963
+399,1933,Hydropower,"32346    37.8
+57845     3.0
+Name: cap_added, dtype: float64",26.07956696
+400,1934,Hydropower,"32600     37.6
+58185      3.0
+106245     3.0
+Name: cap_added, dtype: float64",27.89925305
+401,1935,Hydropower,"32855    81.1
+58526    89.9
+Name: cap_added, dtype: float64",29.60937482
+402,1936,Hydropower,"33111     825.4
+58868       9.0
+106706     14.5
+Name: cap_added, dtype: float64",29.09726804
+403,1937,Hydropower,"33368     355.2
+59211      20.8
+107168      8.7
+Name: cap_added, dtype: float64",30.12941979
+404,1938,Hydropower,"33626     691.6
+59555      25.0
+107631     30.5
+Name: cap_added, dtype: float64",30.26650587
+405,1939,Hydropower,"33885     504.6
+59900      65.6
+108095     20.0
+Name: cap_added, dtype: float64",31.03170279
+406,1940,Hydropower,"34145     442.6
+60246     137.5
+108560     22.7
+Name: cap_added, dtype: float64",32.02117647
+407,1941,Hydropower,"34406     752.6
+60593     134.8
+109026     23.5
+Name: cap_added, dtype: float64",32.30987204
+408,1942,Hydropower,"34668     1109.4
+60941      292.0
+109493      52.5
+Name: cap_added, dtype: float64",32.28676891
+409,1943,Hydropower,"34931     1102.4
+61290      479.2
+109961      87.5
+Name: cap_added, dtype: float64",32.18366983
+410,1944,Hydropower,"35195    1013.6
+61640     172.5
+Name: cap_added, dtype: float64",32.46456789
+411,1945,Hydropower,"35460     365.6
+61991      77.5
+110430     11.0
+Name: cap_added, dtype: float64",34.10921166
+412,1946,Hydropower,"35726    58.9
+62343    50.0
+Name: cap_added, dtype: float64",36.37490159
+413,1947,Hydropower,"35993     169.0
+62696     312.4
+110900     60.5
+Name: cap_added, dtype: float64",38.39240138
+414,1948,Hydropower,"36261     803.1
+63050     723.9
+111371    109.7
+Name: cap_added, dtype: float64",39.00591974
+415,1949,Hydropower,"36530     1245.8
+63405     1367.4
+111843     118.3
+Name: cap_added, dtype: float64",38.82644914
+416,1950,Hydropower,"36800     1201.8
+63761     1575.8
+112316     134.3
+Name: cap_added, dtype: float64",38.92883803
+417,1951,Hydropower,"37071     1372.0
+64118     1870.8
+112790     168.2
+Name: cap_added, dtype: float64",38.89078075
+418,1952,Hydropower,"37343     1692.8
+64476     3132.0
+113265     133.6
+Name: cap_added, dtype: float64",38.52896685
+419,1953,Hydropower,"37616     1966.3
+64835     4800.9
+113741      73.1
+Name: cap_added, dtype: float64",38.03160804
+420,1954,Hydropower,"37890     1282.9
+65195     6552.6
+114218     136.0
+Name: cap_added, dtype: float64",38.80620233
+421,1955,Hydropower,"38165     1743.5
+65556     7292.8
+114696     193.3
+Name: cap_added, dtype: float64",39.03543021
+422,1956,Hydropower,"38441     1238.9
+65918     2416.9
+115175     154.9
+Name: cap_added, dtype: float64",40.09920929
+423,1957,Hydropower,"38718     1594.2
+66281     4339.0
+115655     150.8
+Name: cap_added, dtype: float64",41.18593252
+424,1958,Hydropower,"38996     2749.4
+66645     6600.5
+116136     157.6
+Name: cap_added, dtype: float64",40.53315469
+425,1959,Hydropower,"39275     1740.8
+67010     7812.4
+116618     151.3
+Name: cap_added, dtype: float64",41.28921291
+426,1960,Hydropower,"39555     1639.5
+67376     6029.9
+117101      91.0
+Name: cap_added, dtype: float64",42.22486761
+427,1961,Hydropower,"39836     3493.3
+67743     4941.5
+117585     147.5
+Name: cap_added, dtype: float64",41.45755077
+428,1962,Hydropower,"40118     2429.5
+68111     4129.6
+118070     118.2
+Name: cap_added, dtype: float64",42.04154806
+429,1963,Hydropower,"40401     2946.5
+68480     4936.3
+118556      66.1
+Name: cap_added, dtype: float64",43.86686101
+430,1964,Hydropower,"40685     2307.7
+68850     5174.7
+119043     136.5
+Name: cap_added, dtype: float64",45.05846877
+431,1965,Hydropower,"40970     1604.8
+69221     5984.4
+119531     296.7
+Name: cap_added, dtype: float64",46.61318428
+432,1966,Hydropower,"41256     1414.2
+69593     4475.0
+120020     171.4
+Name: cap_added, dtype: float64",48.36203471
+433,1967,Hydropower,"41543     2432.3
+69966     8305.7
+120510     181.2
+Name: cap_added, dtype: float64",49.23972883
+434,1968,Hydropower,"41831      1958.2
+70340     10427.0
+121001      217.8
+Name: cap_added, dtype: float64",50.61393566
+435,1969,Hydropower,"42120      1907.1
+70715     13372.5
+121493      358.5
+156735     1191.8
+Name: cap_added, dtype: float64",52.07425367
+436,1970,Hydropower,"42410      1134.8
+71091     11146.0
+121986      117.8
+157295     1257.0
+Name: cap_added, dtype: float64",54.22875017
+437,1971,Hydropower,"42701      1187.4
+71468     14219.2
+89046       110.0
+122480       98.0
+157856     1453.6
+Name: cap_added, dtype: float64",56.33083421
+438,1972,Hydropower,"42993       220.8
+71846     11763.8
+89468       110.0
+122975       86.5
+158418     4412.9
+Name: cap_added, dtype: float64",59.31339944
+439,1973,Hydropower,"43286      1260.8
+72225     12733.0
+89891       110.0
+123471        5.0
+158981     2996.2
+Name: cap_added, dtype: float64",61.29070797
+440,1974,Hydropower,"43580      554.0
+72605     9516.6
+123968      49.5
+159545    5650.5
+Name: cap_added, dtype: float64",63.95236099
+441,1975,Hydropower,"43875     2030.5
+72986     8961.8
+90315      110.0
+160110    3364.5
+165815      16.5
+Name: cap_added, dtype: float64",65.14255869
+442,1976,Hydropower,"44171     1615.3
+73368     8893.4
+124466     245.1
+160676    1805.4
+Name: cap_added, dtype: float64",66.75703934
+443,1977,Hydropower,"44468       519.4
+73751     12617.6
+124965      376.3
+161243     3614.5
+Name: cap_added, dtype: float64",69.46819662
+444,1978,Hydropower,"44766      2321.6
+74135     12288.5
+125465      145.1
+161811      979.7
+Name: cap_added, dtype: float64",70.35572236
+445,1979,Hydropower,"45065      2127.1
+74520     10727.5
+90740       110.0
+125966      266.0
+162380      864.7
+Name: cap_added, dtype: float64",71.50421469
+446,1980,Hydropower,"45365      1226.9
+74906     14737.4
+91166       251.0
+126468      341.3
+162950     1922.2
+Name: cap_added, dtype: float64",73.57238969
+447,1981,Hydropower,"45666       278.8
+75293     10502.8
+126971      404.8
+163521      888.2
+166391       22.4
+Name: cap_added, dtype: float64",76.58930352
+448,1982,Hydropower,"45968       656.8
+75681     12388.7
+91593       128.0
+127475      428.8
+166968       19.5
+Name: cap_added, dtype: float64",79.20426985
+449,1983,Hydropower,"46271      721.7
+76070     6710.7
+92021      306.0
+127980     333.0
+167546     378.2
+Name: cap_added, dtype: float64",81.7397111
+450,1984,Hydropower,"46575      632.1
+76460     9809.6
+92450      217.7
+128486     495.1
+144668      14.8
+168125     149.2
+Name: cap_added, dtype: float64",84.35976063
+451,1985,Hydropower,"46880     1220.2
+76851     7353.2
+92880      465.6
+128993     642.1
+145206      30.0
+168705     140.8
+Name: cap_added, dtype: float64",86.31690843
+452,1986,Hydropower,"47186      632.9
+77243     6402.5
+93311       87.4
+129501     517.3
+145745      69.4
+169286      85.6
+Name: cap_added, dtype: float64",88.92233232
+453,1987,Hydropower,"47493      276.8
+77636     4200.1
+93743       64.6
+130010    1013.0
+146285      34.5
+164093    1874.3
+169868     119.2
+Name: cap_added, dtype: float64",91.93027205
+454,1988,Hydropower,"47801      539.9
+78030     1909.8
+94176      289.2
+130520     869.1
+146826      70.4
+170451      27.0
+Name: cap_added, dtype: float64",94.60965828
+455,1989,Hydropower,"48110      575.1
+78425     1886.3
+94610      328.9
+131031    1012.5
+147368      92.0
+171035      98.8
+Name: cap_added, dtype: float64",97.22867689
+456,1990,Hydropower,"48420      464.0
+78821     2229.4
+95045       87.5
+131543     800.1
+147911      92.0
+171620     113.2
+Name: cap_added, dtype: float64",99.97050126
+457,1991,Hydropower,"48731      167.2
+79218     1896.3
+132056    1058.9
+172206      76.9
+Name: cap_added, dtype: float64",103.0824059
+458,1992,Hydropower,"49043      201.1
+79616     1448.3
+95481       97.8
+132570     477.4
+172793       6.9
+Name: cap_added, dtype: float64",106.1428382
+459,1993,Hydropower,"49356     158.9
+80015     192.8
+95918      48.0
+133085    497.6
+173381      4.2
+Name: cap_added, dtype: float64",109.2542675
+460,1994,Hydropower,"49670      276.9
+80415     1055.0
+133601     376.3
+173970     124.4
+Name: cap_added, dtype: float64",112.1935473
+461,1995,Hydropower,"49985      123.2
+80816     2624.4
+134118     471.6
+174560      30.0
+Name: cap_added, dtype: float64",115.3449761
+462,1996,Hydropower,"50301       60.7
+81218     1913.3
+96356       47.5
+134636     482.7
+Name: cap_added, dtype: float64",118.5835952
+463,1997,Hydropower,"50618      62.5
+81621      90.0
+135155    377.4
+175151     19.8
+Name: cap_added, dtype: float64",121.8167792
+464,1998,Hydropower,"50936       2.9
+82025       3.5
+96795      60.5
+135675    295.9
+148455      0.1
+175743    177.4
+Name: cap_added, dtype: float64",125.1402258
+465,1999,Hydropower,"51255     188.6
+82430     328.2
+136196    160.6
+149000      0.1
+176336    697.8
+Name: cap_added, dtype: float64",128.1662709
+466,2000,Hydropower,"51575       3.7
+82836     130.5
+97235      69.8
+136718    138.2
+176930     56.1
+Name: cap_added, dtype: float64",131.4873758
+467,2001,Hydropower,"51896      150.1
+83243      519.7
+137241     466.3
+149546       4.7
+177525    1516.0
+Name: cap_added, dtype: float64",134.5648805
+468,2002,Hydropower,"52218      17.8
+83651       0.0
+97676       7.3
+137765    234.0
+150093      2.1
+178121    661.0
+Name: cap_added, dtype: float64",137.8601715
+469,2003,Hydropower,"52541       82.5
+84060       90.9
+98118       24.0
+138290     428.9
+150641       0.2
+178718    1609.2
+Name: cap_added, dtype: float64",141.0412913
+470,2004,Hydropower,"52865      79.2
+84470     617.0
+138816    140.2
+179316    392.6
+Name: cap_added, dtype: float64",144.2233912
+471,2005,Hydropower,"53190       30.4
+84881      477.7
+98561       30.0
+139343     158.6
+151190       2.5
+179915    2160.8
+Name: cap_added, dtype: float64",147.4913832
+472,2006,Hydropower,"53516       21.4
+85293      580.7
+99005       52.5
+139871     364.8
+151740       1.4
+180515    2661.3
+Name: cap_added, dtype: float64",150.7746481
+473,2007,Hydropower,"53843       21.6
+85706     1513.5
+99450       56.7
+140400     330.7
+152291     109.5
+181116    5283.8
+Name: cap_added, dtype: float64",154.0563869
+474,2008,Hydropower,"54171       19.7
+86120     1584.0
+99896       64.0
+140930     351.5
+152843      34.6
+181718    8497.4
+Name: cap_added, dtype: float64",157.3408562
+475,2009,Hydropower,"54500       26.1
+86535     1954.1
+100343     212.7
+141461     476.4
+153396     108.9
+182321    9921.5
+Name: cap_added, dtype: float64",160.6118419
+476,2010,Hydropower,"54830       21.5
+86951     5836.0
+100791      23.5
+141993     362.9
+153950     238.3
+182925    4683.5
+Name: cap_added, dtype: float64",163.8894682
+477,2011,Hydropower,"55161      161.0
+87368     4253.1
+101240       6.8
+142526     528.0
+154505     763.2
+183530    6882.8
+Name: cap_added, dtype: float64",166.8764322
+478,2012,Hydropower,"55493       352.9
+87786      3952.5
+101690      191.8
+143060      561.3
+155061     1578.3
+184136    13270.3
+Name: cap_added, dtype: float64",169.4544802
+479,2013,Hydropower,"55826      428.5
+88205      804.5
+102141      91.0
+143595     908.7
+155618    3511.2
+164666       0.0
+184743     859.1
+Name: cap_added, dtype: float64",171.8662755
+480,2014,Hydropower,"56160      177.9
+88625      106.2
+102593      20.0
+144131     278.1
+156176    3692.7
+165240       0.0
+185351    4685.5
+Name: cap_added, dtype: float64",174.805574
+481,1891,Coal,"23435    3.9
+Name: cap_added, dtype: float64",NaN
+482,1893,Coal,"23651    0.8
+Name: cap_added, dtype: float64",NaN
+483,1896,Coal,"23868    4.8
+Name: cap_added, dtype: float64",NaN
+484,1898,Coal,"24086    6.3
+Name: cap_added, dtype: float64",NaN
+485,1899,Coal,"24305    3.2
+Name: cap_added, dtype: float64",NaN
+486,1900,Coal,"24525    9.2
+Name: cap_added, dtype: float64",NaN
+487,1901,Coal,"24746    4.3
+Name: cap_added, dtype: float64",NaN
+488,1902,Coal,"24968    2.4
+Name: cap_added, dtype: float64",NaN
+489,1903,Coal,"25191    45.6
+Name: cap_added, dtype: float64",NaN
+490,1904,Coal,"25415    29.6
+Name: cap_added, dtype: float64",NaN
+491,1905,Coal,"25640    37.6
+Name: cap_added, dtype: float64",NaN
+492,1906,Coal,"25866    33.1
+Name: cap_added, dtype: float64",NaN
+493,1907,Coal,"26093    122.1
+Name: cap_added, dtype: float64",NaN
+494,1908,Coal,"26321    54.1
+Name: cap_added, dtype: float64",NaN
+495,1909,Coal,"26550    74.4
+Name: cap_added, dtype: float64",NaN
+496,1910,Coal,"26780    174.6
+Name: cap_added, dtype: float64",NaN
+497,1911,Coal,"27011    143.6
+Name: cap_added, dtype: float64",NaN
+498,1912,Coal,"27243    208.7
+Name: cap_added, dtype: float64",NaN
+499,1913,Coal,"27476    347.2
+Name: cap_added, dtype: float64",NaN
+500,1914,Coal,"27710    147.7
+Name: cap_added, dtype: float64",NaN
+501,1915,Coal,"27945    253.7
+Name: cap_added, dtype: float64",NaN
+502,1916,Coal,"28181    168.8
+Name: cap_added, dtype: float64",NaN
+503,1917,Coal,"28418    266.9
+Name: cap_added, dtype: float64",NaN
+504,1918,Coal,"28656    188.9
+Name: cap_added, dtype: float64",NaN
+505,1919,Coal,"28895    279.3
+Name: cap_added, dtype: float64",NaN
+506,1920,Coal,"29135    159.0
+Name: cap_added, dtype: float64",NaN
+507,1921,Coal,"29376    294.2
+56495     10.0
+Name: cap_added, dtype: float64",266
+508,1922,Coal,"29618    179.2
+Name: cap_added, dtype: float64",NaN
+509,1923,Coal,"29861    409.4
+Name: cap_added, dtype: float64",NaN
+510,1924,Coal,"30105    543.6
+Name: cap_added, dtype: float64",NaN
+511,1925,Coal,"30350     732.4
+56831      20.0
+103046      2.0
+Name: cap_added, dtype: float64",492
+512,1926,Coal,"30596     281.7
+103500     11.2
+Name: cap_added, dtype: float64",NaN
+513,1927,Coal,"30843     460.4
+103955      8.0
+Name: cap_added, dtype: float64",NaN
+514,1928,Coal,"31091     1003.5
+104411      67.5
+Name: cap_added, dtype: float64",NaN
+515,1929,Coal,"31340     260.7
+57168      25.0
+104868      6.0
+Name: cap_added, dtype: float64",239.2181818
+516,1930,Coal,"31590     792.6
+57506      66.7
+105326      9.5
+Name: cap_added, dtype: float64",227.5414955
+517,1931,Coal,"31841     626.8
+105785     11.2
+Name: cap_added, dtype: float64",NaN
+518,1932,Coal,"32093    272.3
+Name: cap_added, dtype: float64",NaN
+519,1933,Coal,"32346    37.8
+57845     3.0
+Name: cap_added, dtype: float64",230.9879711
+520,1934,Coal,"32600     37.6
+58185      3.0
+106245     3.0
+Name: cap_added, dtype: float64",233.6100235
+521,1935,Coal,"32855    81.1
+58526    89.9
+Name: cap_added, dtype: float64",226.3818934
+522,1936,Coal,"33111     825.4
+58868       9.0
+106706     14.5
+Name: cap_added, dtype: float64",218.3106796
+523,1937,Coal,"33368     355.2
+59211      20.8
+107168      8.7
+Name: cap_added, dtype: float64",211.5731609
+524,1938,Coal,"33626     691.6
+59555      25.0
+107631     30.5
+Name: cap_added, dtype: float64",216.3058003
+525,1939,Coal,"33885     504.6
+59900      65.6
+108095     20.0
+Name: cap_added, dtype: float64",215.0106509
+526,1940,Coal,"34145     442.6
+60246     137.5
+108560     22.7
+Name: cap_added, dtype: float64",230.6067298
+527,1941,Coal,"34406     752.6
+60593     134.8
+109026     23.5
+Name: cap_added, dtype: float64",229.402425
+528,1942,Coal,"34668     1109.4
+60941      292.0
+109493      52.5
+Name: cap_added, dtype: float64",232.3041117
+529,1943,Coal,"34931     1102.4
+61290      479.2
+109961      87.5
+Name: cap_added, dtype: float64",219.4374955
+530,1944,Coal,"35195    1013.6
+61640     172.5
+Name: cap_added, dtype: float64",204.6850708
+531,1945,Coal,"35460     365.6
+61991      77.5
+110430     11.0
+Name: cap_added, dtype: float64",207.7366227
+532,1946,Coal,"35726    58.9
+62343    50.0
+Name: cap_added, dtype: float64",204.1813857
+533,1947,Coal,"35993     169.0
+62696     312.4
+110900     60.5
+Name: cap_added, dtype: float64",204.3468579
+534,1948,Coal,"36261     803.1
+63050     723.9
+111371    109.7
+Name: cap_added, dtype: float64",196.9613658
+535,1949,Coal,"36530     1245.8
+63405     1367.4
+111843     118.3
+Name: cap_added, dtype: float64",181.6330902
+536,1950,Coal,"36800     1201.8
+63761     1575.8
+112316     134.3
+Name: cap_added, dtype: float64",158.0396573
+537,1951,Coal,"37071     1372.0
+64118     1870.8
+112790     168.2
+Name: cap_added, dtype: float64",150.4424971
+538,1952,Coal,"37343     1692.8
+64476     3132.0
+113265     133.6
+Name: cap_added, dtype: float64",142.1257432
+539,1953,Coal,"37616     1966.3
+64835     4800.9
+113741      73.1
+Name: cap_added, dtype: float64",119.5801794
+540,1954,Coal,"37890     1282.9
+65195     6552.6
+114218     136.0
+Name: cap_added, dtype: float64",106.5698292
+541,1955,Coal,"38165     1743.5
+65556     7292.8
+114696     193.3
+Name: cap_added, dtype: float64",94.01340152
+542,1956,Coal,"38441     1238.9
+65918     2416.9
+115175     154.9
+Name: cap_added, dtype: float64",98.04432817
+543,1957,Coal,"38718     1594.2
+66281     4339.0
+115655     150.8
+Name: cap_added, dtype: float64",96.54596296
+544,1958,Coal,"38996     2749.4
+66645     6600.5
+116136     157.6
+Name: cap_added, dtype: float64",90.22423681
+545,1959,Coal,"39275     1740.8
+67010     7812.4
+116618     151.3
+Name: cap_added, dtype: float64",83.84307701
+546,1960,Coal,"39555     1639.5
+67376     6029.9
+117101      91.0
+Name: cap_added, dtype: float64",86.53988582
+547,1961,Coal,"39836     3493.3
+67743     4941.5
+117585     147.5
+Name: cap_added, dtype: float64",83.96623287
+548,1962,Coal,"40118     2429.5
+68111     4129.6
+118070     118.2
+Name: cap_added, dtype: float64",84.74149091
+549,1963,Coal,"40401     2946.5
+68480     4936.3
+118556      66.1
+Name: cap_added, dtype: float64",85.7673485
+550,1964,Coal,"40685     2307.7
+68850     5174.7
+119043     136.5
+Name: cap_added, dtype: float64",85.60916834
+551,1965,Coal,"40970     1604.8
+69221     5984.4
+119531     296.7
+Name: cap_added, dtype: float64",82.99417204
+552,1966,Coal,"41256     1414.2
+69593     4475.0
+120020     171.4
+Name: cap_added, dtype: float64",82.75947269
+553,1967,Coal,"41543     2432.3
+69966     8305.7
+120510     181.2
+Name: cap_added, dtype: float64",80.27676908
+554,1968,Coal,"41831      1958.2
+70340     10427.0
+121001      217.8
+Name: cap_added, dtype: float64",77.30860483
+555,1969,Coal,"42120      1907.1
+70715     13372.5
+121493      358.5
+156735     1191.8
+Name: cap_added, dtype: float64",74.09797599
+556,1970,Coal,"42410      1134.8
+71091     11146.0
+121986      117.8
+157295     1257.0
+Name: cap_added, dtype: float64",73.07116146
+557,1971,Coal,"42701      1187.4
+71468     14219.2
+89046       110.0
+122480       98.0
+157856     1453.6
+Name: cap_added, dtype: float64",72.22040416
+558,1972,Coal,"42993       220.8
+71846     11763.8
+89468       110.0
+122975       86.5
+158418     4412.9
+Name: cap_added, dtype: float64",71.91983949
+559,1973,Coal,"43286      1260.8
+72225     12733.0
+89891       110.0
+123471        5.0
+158981     2996.2
+Name: cap_added, dtype: float64",70.46502714
+560,1974,Coal,"43580      554.0
+72605     9516.6
+123968      49.5
+159545    5650.5
+Name: cap_added, dtype: float64",70.72792386
+561,1975,Coal,"43875     2030.5
+72986     8961.8
+90315      110.0
+160110    3364.5
+165815      16.5
+Name: cap_added, dtype: float64",71.41230327
+562,1976,Coal,"44171     1615.3
+73368     8893.4
+124466     245.1
+160676    1805.4
+Name: cap_added, dtype: float64",72.3274394
+563,1977,Coal,"44468       519.4
+73751     12617.6
+124965      376.3
+161243     3614.5
+Name: cap_added, dtype: float64",72.08289586
+564,1978,Coal,"44766      2321.6
+74135     12288.5
+125465      145.1
+161811      979.7
+Name: cap_added, dtype: float64",72.24321832
+565,1979,Coal,"45065      2127.1
+74520     10727.5
+90740       110.0
+125966      266.0
+162380      864.7
+Name: cap_added, dtype: float64",73.10757826
+566,1980,Coal,"45365      1226.9
+74906     14737.4
+91166       251.0
+126468      341.3
+162950     1922.2
+Name: cap_added, dtype: float64",72.98976289
+567,1981,Coal,"45666       278.8
+75293     10502.8
+126971      404.8
+163521      888.2
+166391       22.4
+Name: cap_added, dtype: float64",74.29403257
+568,1982,Coal,"45968       656.8
+75681     12388.7
+91593       128.0
+127475      428.8
+166968       19.5
+Name: cap_added, dtype: float64",75.19635403
+569,1983,Coal,"46271      721.7
+76070     6710.7
+92021      306.0
+127980     333.0
+167546     378.2
+Name: cap_added, dtype: float64",77.70791306
+570,1984,Coal,"46575      632.1
+76460     9809.6
+92450      217.7
+128486     495.1
+144668      14.8
+168125     149.2
+Name: cap_added, dtype: float64",79.40426736
+571,1985,Coal,"46880     1220.2
+76851     7353.2
+92880      465.6
+128993     642.1
+145206      30.0
+168705     140.8
+Name: cap_added, dtype: float64",81.79428676
+572,1986,Coal,"47186      632.9
+77243     6402.5
+93311       87.4
+129501     517.3
+145745      69.4
+169286      85.6
+Name: cap_added, dtype: float64",84.42306334
+573,1987,Coal,"47493      276.8
+77636     4200.1
+93743       64.6
+130010    1013.0
+146285      34.5
+164093    1874.3
+169868     119.2
+Name: cap_added, dtype: float64",87.64385533
+574,1988,Coal,"47801      539.9
+78030     1909.8
+94176      289.2
+130520     869.1
+146826      70.4
+170451      27.0
+Name: cap_added, dtype: float64",91.51795894
+575,1989,Coal,"48110      575.1
+78425     1886.3
+94610      328.9
+131031    1012.5
+147368      92.0
+171035      98.8
+Name: cap_added, dtype: float64",95.34464146
+576,1990,Coal,"48420      464.0
+78821     2229.4
+95045       87.5
+131543     800.1
+147911      92.0
+171620     113.2
+Name: cap_added, dtype: float64",99.0609982
+577,1991,Coal,"48731      167.2
+79218     1896.3
+132056    1058.9
+172206      76.9
+Name: cap_added, dtype: float64",102.8327178
+578,1992,Coal,"49043      201.1
+79616     1448.3
+95481       97.8
+132570     477.4
+172793       6.9
+Name: cap_added, dtype: float64",106.7581434
+579,1993,Coal,"49356     158.9
+80015     192.8
+95918      48.0
+133085    497.6
+173381      4.2
+Name: cap_added, dtype: float64",111.063162
+580,1994,Coal,"49670      276.9
+80415     1055.0
+133601     376.3
+173970     124.4
+Name: cap_added, dtype: float64",115.0586578
+581,1995,Coal,"49985      123.2
+80816     2624.4
+134118     471.6
+174560      30.0
+Name: cap_added, dtype: float64",118.4780264
+582,1996,Coal,"50301       60.7
+81218     1913.3
+96356       47.5
+134636     482.7
+Name: cap_added, dtype: float64",122.1373158
+583,1997,Coal,"50618      62.5
+81621      90.0
+135155    377.4
+175151     19.8
+Name: cap_added, dtype: float64",126.4740391
+584,1998,Coal,"50936       2.9
+82025       3.5
+96795      60.5
+135675    295.9
+148455      0.1
+175743    177.4
+Name: cap_added, dtype: float64",130.8438088
+585,1999,Coal,"51255     188.6
+82430     328.2
+136196    160.6
+149000      0.1
+176336    697.8
+Name: cap_added, dtype: float64",135.0794507
+586,2000,Coal,"51575       3.7
+82836     130.5
+97235      69.8
+136718    138.2
+176930     56.1
+Name: cap_added, dtype: float64",139.3945021
+587,2001,Coal,"51896      150.1
+83243      519.7
+137241     466.3
+149546       4.7
+177525    1516.0
+Name: cap_added, dtype: float64",143.5369795
+588,2002,Coal,"52218      17.8
+83651       0.0
+97676       7.3
+137765    234.0
+150093      2.1
+178121    661.0
+Name: cap_added, dtype: float64",147.9029495
+589,2003,Coal,"52541       82.5
+84060       90.9
+98118       24.0
+138290     428.9
+150641       0.2
+178718    1609.2
+Name: cap_added, dtype: float64",152.2240771
+590,2004,Coal,"52865      79.2
+84470     617.0
+138816    140.2
+179316    392.6
+Name: cap_added, dtype: float64",156.2915215
+591,2005,Coal,"53190       30.4
+84881      477.7
+98561       30.0
+139343     158.6
+151190       2.5
+179915    2160.8
+Name: cap_added, dtype: float64",160.4208373
+592,2006,Coal,"53516       21.4
+85293      580.7
+99005       52.5
+139871     364.8
+151740       1.4
+180515    2661.3
+Name: cap_added, dtype: float64",164.4876261
+593,2007,Coal,"53843       21.6
+85706     1513.5
+99450       56.7
+140400     330.7
+152291     109.5
+181116    5283.8
+Name: cap_added, dtype: float64",168.0667811
+594,2008,Coal,"54171       19.7
+86120     1584.0
+99896       64.0
+140930     351.5
+152843      34.6
+181718    8497.4
+Name: cap_added, dtype: float64",171.5976825
+595,2009,Coal,"54500       26.1
+86535     1954.1
+100343     212.7
+141461     476.4
+153396     108.9
+182321    9921.5
+Name: cap_added, dtype: float64",174.9239935
+596,2010,Coal,"54830       21.5
+86951     5836.0
+100791      23.5
+141993     362.9
+153950     238.3
+182925    4683.5
+Name: cap_added, dtype: float64",176.1933312
+597,2011,Coal,"55161      161.0
+87368     4253.1
+101240       6.8
+142526     528.0
+154505     763.2
+183530    6882.8
+Name: cap_added, dtype: float64",178.3103444
+598,2012,Coal,"55493       352.9
+87786      3952.5
+101690      191.8
+143060      561.3
+155061     1578.3
+184136    13270.3
+Name: cap_added, dtype: float64",180.563318
+599,2013,Coal,"55826      428.5
+88205      804.5
+102141      91.0
+143595     908.7
+155618    3511.2
+164666       0.0
+184743     859.1
+Name: cap_added, dtype: float64",184.4444611
+600,2014,Coal,"56160      177.9
+88625      106.2
+102593      20.0
+144131     278.1
+156176    3692.7
+165240       0.0
+185351    4685.5
+Name: cap_added, dtype: float64",188.6793602
+601,1891,Geothermal,"23435    3.9
+Name: cap_added, dtype: float64",NaN
+602,1893,Geothermal,"23651    0.8
+Name: cap_added, dtype: float64",NaN
+603,1896,Geothermal,"23868    4.8
+Name: cap_added, dtype: float64",NaN
+604,1898,Geothermal,"24086    6.3
+Name: cap_added, dtype: float64",NaN
+605,1899,Geothermal,"24305    3.2
+Name: cap_added, dtype: float64",NaN
+606,1900,Geothermal,"24525    9.2
+Name: cap_added, dtype: float64",NaN
+607,1901,Geothermal,"24746    4.3
+Name: cap_added, dtype: float64",NaN
+608,1902,Geothermal,"24968    2.4
+Name: cap_added, dtype: float64",NaN
+609,1903,Geothermal,"25191    45.6
+Name: cap_added, dtype: float64",NaN
+610,1904,Geothermal,"25415    29.6
+Name: cap_added, dtype: float64",NaN
+611,1905,Geothermal,"25640    37.6
+Name: cap_added, dtype: float64",NaN
+612,1906,Geothermal,"25866    33.1
+Name: cap_added, dtype: float64",NaN
+613,1907,Geothermal,"26093    122.1
+Name: cap_added, dtype: float64",NaN
+614,1908,Geothermal,"26321    54.1
+Name: cap_added, dtype: float64",NaN
+615,1909,Geothermal,"26550    74.4
+Name: cap_added, dtype: float64",NaN
+616,1910,Geothermal,"26780    174.6
+Name: cap_added, dtype: float64",NaN
+617,1911,Geothermal,"27011    143.6
+Name: cap_added, dtype: float64",NaN
+618,1912,Geothermal,"27243    208.7
+Name: cap_added, dtype: float64",NaN
+619,1913,Geothermal,"27476    347.2
+Name: cap_added, dtype: float64",NaN
+620,1914,Geothermal,"27710    147.7
+Name: cap_added, dtype: float64",NaN
+621,1915,Geothermal,"27945    253.7
+Name: cap_added, dtype: float64",NaN
+622,1916,Geothermal,"28181    168.8
+Name: cap_added, dtype: float64",NaN
+623,1917,Geothermal,"28418    266.9
+Name: cap_added, dtype: float64",NaN
+624,1918,Geothermal,"28656    188.9
+Name: cap_added, dtype: float64",NaN
+625,1919,Geothermal,"28895    279.3
+Name: cap_added, dtype: float64",NaN
+626,1920,Geothermal,"29135    159.0
+Name: cap_added, dtype: float64",NaN
+627,1921,Geothermal,"29376    294.2
+56495     10.0
+Name: cap_added, dtype: float64",NaN
+628,1922,Geothermal,"29618    179.2
+Name: cap_added, dtype: float64",NaN
+629,1923,Geothermal,"29861    409.4
+Name: cap_added, dtype: float64",NaN
+630,1924,Geothermal,"30105    543.6
+Name: cap_added, dtype: float64",NaN
+631,1925,Geothermal,"30350     732.4
+56831      20.0
+103046      2.0
+Name: cap_added, dtype: float64",NaN
+632,1926,Geothermal,"30596     281.7
+103500     11.2
+Name: cap_added, dtype: float64",NaN
+633,1927,Geothermal,"30843     460.4
+103955      8.0
+Name: cap_added, dtype: float64",NaN
+634,1928,Geothermal,"31091     1003.5
+104411      67.5
+Name: cap_added, dtype: float64",NaN
+635,1929,Geothermal,"31340     260.7
+57168      25.0
+104868      6.0
+Name: cap_added, dtype: float64",NaN
+636,1930,Geothermal,"31590     792.6
+57506      66.7
+105326      9.5
+Name: cap_added, dtype: float64",NaN
+637,1931,Geothermal,"31841     626.8
+105785     11.2
+Name: cap_added, dtype: float64",NaN
+638,1932,Geothermal,"32093    272.3
+Name: cap_added, dtype: float64",NaN
+639,1933,Geothermal,"32346    37.8
+57845     3.0
+Name: cap_added, dtype: float64",NaN
+640,1934,Geothermal,"32600     37.6
+58185      3.0
+106245     3.0
+Name: cap_added, dtype: float64",NaN
+641,1935,Geothermal,"32855    81.1
+58526    89.9
+Name: cap_added, dtype: float64",NaN
+642,1936,Geothermal,"33111     825.4
+58868       9.0
+106706     14.5
+Name: cap_added, dtype: float64",NaN
+643,1937,Geothermal,"33368     355.2
+59211      20.8
+107168      8.7
+Name: cap_added, dtype: float64",NaN
+644,1938,Geothermal,"33626     691.6
+59555      25.0
+107631     30.5
+Name: cap_added, dtype: float64",NaN
+645,1939,Geothermal,"33885     504.6
+59900      65.6
+108095     20.0
+Name: cap_added, dtype: float64",NaN
+646,1940,Geothermal,"34145     442.6
+60246     137.5
+108560     22.7
+Name: cap_added, dtype: float64",NaN
+647,1941,Geothermal,"34406     752.6
+60593     134.8
+109026     23.5
+Name: cap_added, dtype: float64",NaN
+648,1942,Geothermal,"34668     1109.4
+60941      292.0
+109493      52.5
+Name: cap_added, dtype: float64",NaN
+649,1943,Geothermal,"34931     1102.4
+61290      479.2
+109961      87.5
+Name: cap_added, dtype: float64",NaN
+650,1944,Geothermal,"35195    1013.6
+61640     172.5
+Name: cap_added, dtype: float64",NaN
+651,1945,Geothermal,"35460     365.6
+61991      77.5
+110430     11.0
+Name: cap_added, dtype: float64",NaN
+652,1946,Geothermal,"35726    58.9
+62343    50.0
+Name: cap_added, dtype: float64",NaN
+653,1947,Geothermal,"35993     169.0
+62696     312.4
+110900     60.5
+Name: cap_added, dtype: float64",NaN
+654,1948,Geothermal,"36261     803.1
+63050     723.9
+111371    109.7
+Name: cap_added, dtype: float64",NaN
+655,1949,Geothermal,"36530     1245.8
+63405     1367.4
+111843     118.3
+Name: cap_added, dtype: float64",NaN
+656,1950,Geothermal,"36800     1201.8
+63761     1575.8
+112316     134.3
+Name: cap_added, dtype: float64",NaN
+657,1951,Geothermal,"37071     1372.0
+64118     1870.8
+112790     168.2
+Name: cap_added, dtype: float64",NaN
+658,1952,Geothermal,"37343     1692.8
+64476     3132.0
+113265     133.6
+Name: cap_added, dtype: float64",NaN
+659,1953,Geothermal,"37616     1966.3
+64835     4800.9
+113741      73.1
+Name: cap_added, dtype: float64",NaN
+660,1954,Geothermal,"37890     1282.9
+65195     6552.6
+114218     136.0
+Name: cap_added, dtype: float64",NaN
+661,1955,Geothermal,"38165     1743.5
+65556     7292.8
+114696     193.3
+Name: cap_added, dtype: float64",NaN
+662,1956,Geothermal,"38441     1238.9
+65918     2416.9
+115175     154.9
+Name: cap_added, dtype: float64",NaN
+663,1957,Geothermal,"38718     1594.2
+66281     4339.0
+115655     150.8
+Name: cap_added, dtype: float64",NaN
+664,1958,Geothermal,"38996     2749.4
+66645     6600.5
+116136     157.6
+Name: cap_added, dtype: float64",NaN
+665,1959,Geothermal,"39275     1740.8
+67010     7812.4
+116618     151.3
+Name: cap_added, dtype: float64",NaN
+666,1960,Geothermal,"39555     1639.5
+67376     6029.9
+117101      91.0
+Name: cap_added, dtype: float64",NaN
+667,1961,Geothermal,"39836     3493.3
+67743     4941.5
+117585     147.5
+Name: cap_added, dtype: float64",NaN
+668,1962,Geothermal,"40118     2429.5
+68111     4129.6
+118070     118.2
+Name: cap_added, dtype: float64",NaN
+669,1963,Geothermal,"40401     2946.5
+68480     4936.3
+118556      66.1
+Name: cap_added, dtype: float64",NaN
+670,1964,Geothermal,"40685     2307.7
+68850     5174.7
+119043     136.5
+Name: cap_added, dtype: float64",NaN
+671,1965,Geothermal,"40970     1604.8
+69221     5984.4
+119531     296.7
+Name: cap_added, dtype: float64",NaN
+672,1966,Geothermal,"41256     1414.2
+69593     4475.0
+120020     171.4
+Name: cap_added, dtype: float64",NaN
+673,1967,Geothermal,"41543     2432.3
+69966     8305.7
+120510     181.2
+Name: cap_added, dtype: float64",NaN
+674,1968,Geothermal,"41831      1958.2
+70340     10427.0
+121001      217.8
+Name: cap_added, dtype: float64",NaN
+675,1969,Geothermal,"42120      1907.1
+70715     13372.5
+121493      358.5
+156735     1191.8
+Name: cap_added, dtype: float64",NaN
+676,1970,Geothermal,"42410      1134.8
+71091     11146.0
+121986      117.8
+157295     1257.0
+Name: cap_added, dtype: float64",NaN
+677,1971,Geothermal,"42701      1187.4
+71468     14219.2
+89046       110.0
+122480       98.0
+157856     1453.6
+Name: cap_added, dtype: float64",6
+678,1972,Geothermal,"42993       220.8
+71846     11763.8
+89468       110.0
+122975       86.5
+158418     4412.9
+Name: cap_added, dtype: float64",NaN
+679,1973,Geothermal,"43286      1260.8
+72225     12733.0
+89891       110.0
+123471        5.0
+158981     2996.2
+Name: cap_added, dtype: float64",NaN
+680,1974,Geothermal,"43580      554.0
+72605     9516.6
+123968      49.5
+159545    5650.5
+Name: cap_added, dtype: float64",NaN
+681,1975,Geothermal,"43875     2030.5
+72986     8961.8
+90315      110.0
+160110    3364.5
+165815      16.5
+Name: cap_added, dtype: float64",NaN
+682,1976,Geothermal,"44171     1615.3
+73368     8893.4
+124466     245.1
+160676    1805.4
+Name: cap_added, dtype: float64",NaN
+683,1977,Geothermal,"44468       519.4
+73751     12617.6
+124965      376.3
+161243     3614.5
+Name: cap_added, dtype: float64",NaN
+684,1978,Geothermal,"44766      2321.6
+74135     12288.5
+125465      145.1
+161811      979.7
+Name: cap_added, dtype: float64",NaN
+685,1979,Geothermal,"45065      2127.1
+74520     10727.5
+90740       110.0
+125966      266.0
+162380      864.7
+Name: cap_added, dtype: float64",NaN
+686,1980,Geothermal,"45365      1226.9
+74906     14737.4
+91166       251.0
+126468      341.3
+162950     1922.2
+Name: cap_added, dtype: float64",NaN
+687,1981,Geothermal,"45666       278.8
+75293     10502.8
+126971      404.8
+163521      888.2
+166391       22.4
+Name: cap_added, dtype: float64",NaN
+688,1982,Geothermal,"45968       656.8
+75681     12388.7
+91593       128.0
+127475      428.8
+166968       19.5
+Name: cap_added, dtype: float64",NaN
+689,1983,Geothermal,"46271      721.7
+76070     6710.7
+92021      306.0
+127980     333.0
+167546     378.2
+Name: cap_added, dtype: float64",NaN
+690,1984,Geothermal,"46575      632.1
+76460     9809.6
+92450      217.7
+128486     495.1
+144668      14.8
+168125     149.2
+Name: cap_added, dtype: float64",35.18427755
+691,1985,Geothermal,"46880     1220.2
+76851     7353.2
+92880      465.6
+128993     642.1
+145206      30.0
+168705     140.8
+Name: cap_added, dtype: float64",33.10326852
+692,1986,Geothermal,"47186      632.9
+77243     6402.5
+93311       87.4
+129501     517.3
+145745      69.4
+169286      85.6
+Name: cap_added, dtype: float64",38.49867877
+693,1987,Geothermal,"47493      276.8
+77636     4200.1
+93743       64.6
+130010    1013.0
+146285      34.5
+164093    1874.3
+169868     119.2
+Name: cap_added, dtype: float64",44.32942086
+694,1988,Geothermal,"47801      539.9
+78030     1909.8
+94176      289.2
+130520     869.1
+146826      70.4
+170451      27.0
+Name: cap_added, dtype: float64",45.23144734
+695,1989,Geothermal,"48110      575.1
+78425     1886.3
+94610      328.9
+131031    1012.5
+147368      92.0
+171035      98.8
+Name: cap_added, dtype: float64",46.31509448
+696,1990,Geothermal,"48420      464.0
+78821     2229.4
+95045       87.5
+131543     800.1
+147911      92.0
+171620     113.2
+Name: cap_added, dtype: float64",50.39262942
+697,1991,Geothermal,"48731      167.2
+79218     1896.3
+132056    1058.9
+172206      76.9
+Name: cap_added, dtype: float64",NaN
+698,1992,Geothermal,"49043      201.1
+79616     1448.3
+95481       97.8
+132570     477.4
+172793       6.9
+Name: cap_added, dtype: float64",59.54577722
+699,1993,Geothermal,"49356     158.9
+80015     192.8
+95918      48.0
+133085    497.6
+173381      4.2
+Name: cap_added, dtype: float64",64.09456823
+700,1994,Geothermal,"49670      276.9
+80415     1055.0
+133601     376.3
+173970     124.4
+Name: cap_added, dtype: float64",NaN
+701,1995,Geothermal,"49985      123.2
+80816     2624.4
+134118     471.6
+174560      30.0
+Name: cap_added, dtype: float64",NaN
+702,1996,Geothermal,"50301       60.7
+81218     1913.3
+96356       47.5
+134636     482.7
+Name: cap_added, dtype: float64",79.46510845
+703,1997,Geothermal,"50618      62.5
+81621      90.0
+135155    377.4
+175151     19.8
+Name: cap_added, dtype: float64",NaN
+704,1998,Geothermal,"50936       2.9
+82025       3.5
+96795      60.5
+135675    295.9
+148455      0.1
+175743    177.4
+Name: cap_added, dtype: float64",88.7949632
+705,1999,Geothermal,"51255     188.6
+82430     328.2
+136196    160.6
+149000      0.1
+176336    697.8
+Name: cap_added, dtype: float64",NaN
+706,2000,Geothermal,"51575       3.7
+82836     130.5
+97235      69.8
+136718    138.2
+176930     56.1
+Name: cap_added, dtype: float64",97.67636716
+707,2001,Geothermal,"51896      150.1
+83243      519.7
+137241     466.3
+149546       4.7
+177525    1516.0
+Name: cap_added, dtype: float64",NaN
+708,2002,Geothermal,"52218      17.8
+83651       0.0
+97676       7.3
+137765    234.0
+150093      2.1
+178121    661.0
+Name: cap_added, dtype: float64",108.4287692
+709,2003,Geothermal,"52541       82.5
+84060       90.9
+98118       24.0
+138290     428.9
+150641       0.2
+178718    1609.2
+Name: cap_added, dtype: float64",113.092149
+710,2004,Geothermal,"52865      79.2
+84470     617.0
+138816    140.2
+179316    392.6
+Name: cap_added, dtype: float64",NaN
+711,2005,Geothermal,"53190       30.4
+84881      477.7
+98561       30.0
+139343     158.6
+151190       2.5
+179915    2160.8
+Name: cap_added, dtype: float64",122.9510567
+712,2006,Geothermal,"53516       21.4
+85293      580.7
+99005       52.5
+139871     364.8
+151740       1.4
+180515    2661.3
+Name: cap_added, dtype: float64",126.420689
+713,2007,Geothermal,"53843       21.6
+85706     1513.5
+99450       56.7
+140400     330.7
+152291     109.5
+181116    5283.8
+Name: cap_added, dtype: float64",129.6584098
+714,2008,Geothermal,"54171       19.7
+86120     1584.0
+99896       64.0
+140930     351.5
+152843      34.6
+181718    8497.4
+Name: cap_added, dtype: float64",132.635033
+715,2009,Geothermal,"54500       26.1
+86535     1954.1
+100343     212.7
+141461     476.4
+153396     108.9
+182321    9921.5
+Name: cap_added, dtype: float64",130.2275918
+716,2010,Geothermal,"54830       21.5
+86951     5836.0
+100791      23.5
+141993     362.9
+153950     238.3
+182925    4683.5
+Name: cap_added, dtype: float64",134.8352193
+717,2011,Geothermal,"55161      161.0
+87368     4253.1
+101240       6.8
+142526     528.0
+154505     763.2
+183530    6882.8
+Name: cap_added, dtype: float64",140.0433883
+718,2012,Geothermal,"55493       352.9
+87786      3952.5
+101690      191.8
+143060      561.3
+155061     1578.3
+184136    13270.3
+Name: cap_added, dtype: float64",138.4071588
+719,2013,Geothermal,"55826      428.5
+88205      804.5
+102141      91.0
+143595     908.7
+155618    3511.2
+164666       0.0
+184743     859.1
+Name: cap_added, dtype: float64",140.6431939
+720,2014,Geothermal,"56160      177.9
+88625      106.2
+102593      20.0
+144131     278.1
+156176    3692.7
+165240       0.0
+185351    4685.5
+Name: cap_added, dtype: float64",145.4199443
+721,1891,Other,"23435    3.9
+Name: cap_added, dtype: float64",NaN
+722,1893,Other,"23651    0.8
+Name: cap_added, dtype: float64",NaN
+723,1896,Other,"23868    4.8
+Name: cap_added, dtype: float64",NaN
+724,1898,Other,"24086    6.3
+Name: cap_added, dtype: float64",NaN
+725,1899,Other,"24305    3.2
+Name: cap_added, dtype: float64",NaN
+726,1900,Other,"24525    9.2
+Name: cap_added, dtype: float64",NaN
+727,1901,Other,"24746    4.3
+Name: cap_added, dtype: float64",NaN
+728,1902,Other,"24968    2.4
+Name: cap_added, dtype: float64",NaN
+729,1903,Other,"25191    45.6
+Name: cap_added, dtype: float64",NaN
+730,1904,Other,"25415    29.6
+Name: cap_added, dtype: float64",NaN
+731,1905,Other,"25640    37.6
+Name: cap_added, dtype: float64",NaN
+732,1906,Other,"25866    33.1
+Name: cap_added, dtype: float64",NaN
+733,1907,Other,"26093    122.1
+Name: cap_added, dtype: float64",NaN
+734,1908,Other,"26321    54.1
+Name: cap_added, dtype: float64",NaN
+735,1909,Other,"26550    74.4
+Name: cap_added, dtype: float64",NaN
+736,1910,Other,"26780    174.6
+Name: cap_added, dtype: float64",NaN
+737,1911,Other,"27011    143.6
+Name: cap_added, dtype: float64",NaN
+738,1912,Other,"27243    208.7
+Name: cap_added, dtype: float64",NaN
+739,1913,Other,"27476    347.2
+Name: cap_added, dtype: float64",NaN
+740,1914,Other,"27710    147.7
+Name: cap_added, dtype: float64",NaN
+741,1915,Other,"27945    253.7
+Name: cap_added, dtype: float64",NaN
+742,1916,Other,"28181    168.8
+Name: cap_added, dtype: float64",NaN
+743,1917,Other,"28418    266.9
+Name: cap_added, dtype: float64",NaN
+744,1918,Other,"28656    188.9
+Name: cap_added, dtype: float64",NaN
+745,1919,Other,"28895    279.3
+Name: cap_added, dtype: float64",NaN
+746,1920,Other,"29135    159.0
+Name: cap_added, dtype: float64",NaN
+747,1921,Other,"29376    294.2
+56495     10.0
+Name: cap_added, dtype: float64",NaN
+748,1922,Other,"29618    179.2
+Name: cap_added, dtype: float64",NaN
+749,1923,Other,"29861    409.4
+Name: cap_added, dtype: float64",NaN
+750,1924,Other,"30105    543.6
+Name: cap_added, dtype: float64",NaN
+751,1925,Other,"30350     732.4
+56831      20.0
+103046      2.0
+Name: cap_added, dtype: float64",314
+752,1926,Other,"30596     281.7
+103500     11.2
+Name: cap_added, dtype: float64",467.4242424
+753,1927,Other,"30843     460.4
+103955      8.0
+Name: cap_added, dtype: float64",290.490566
+754,1928,Other,"31091     1003.5
+104411      67.5
+Name: cap_added, dtype: float64",175.2457723
+755,1929,Other,"31340     260.7
+57168      25.0
+104868      6.0
+Name: cap_added, dtype: float64",181.8183738
+756,1930,Other,"31590     792.6
+57506      66.7
+105326      9.5
+Name: cap_added, dtype: float64",192.6449136
+757,1931,Other,"31841     626.8
+105785     11.2
+Name: cap_added, dtype: float64",212.7868284
+758,1932,Other,"32093    272.3
+Name: cap_added, dtype: float64",NaN
+759,1933,Other,"32346    37.8
+57845     3.0
+Name: cap_added, dtype: float64",NaN
+760,1934,Other,"32600     37.6
+58185      3.0
+106245     3.0
+Name: cap_added, dtype: float64",213.222973
+761,1935,Other,"32855    81.1
+58526    89.9
+Name: cap_added, dtype: float64",NaN
+762,1936,Other,"33111     825.4
+58868       9.0
+106706     14.5
+Name: cap_added, dtype: float64",231.5206922
+763,1937,Other,"33368     355.2
+59211      20.8
+107168      8.7
+Name: cap_added, dtype: float64",241.3411017
+764,1938,Other,"33626     691.6
+59555      25.0
+107631     30.5
+Name: cap_added, dtype: float64",239.7484021
+765,1939,Other,"33885     504.6
+59900      65.6
+108095     20.0
+Name: cap_added, dtype: float64",216.6970328
+766,1940,Other,"34145     442.6
+60246     137.5
+108560     22.7
+Name: cap_added, dtype: float64",196.0325885
+767,1941,Other,"34406     752.6
+60593     134.8
+109026     23.5
+Name: cap_added, dtype: float64",183.9827948
+768,1942,Other,"34668     1109.4
+60941      292.0
+109493      52.5
+Name: cap_added, dtype: float64",156.545392
+769,1943,Other,"34931     1102.4
+61290      479.2
+109961      87.5
+Name: cap_added, dtype: float64",137.5659529
+770,1944,Other,"35195    1013.6
+61640     172.5
+Name: cap_added, dtype: float64",NaN
+771,1945,Other,"35460     365.6
+61991      77.5
+110430     11.0
+Name: cap_added, dtype: float64",146.2209093
+772,1946,Other,"35726    58.9
+62343    50.0
+Name: cap_added, dtype: float64",NaN
+773,1947,Other,"35993     169.0
+62696     312.4
+110900     60.5
+Name: cap_added, dtype: float64",138.047799
+774,1948,Other,"36261     803.1
+63050     723.9
+111371    109.7
+Name: cap_added, dtype: float64",127.4328865
+775,1949,Other,"36530     1245.8
+63405     1367.4
+111843     118.3
+Name: cap_added, dtype: float64",112.2971378
+776,1950,Other,"36800     1201.8
+63761     1575.8
+112316     134.3
+Name: cap_added, dtype: float64",114.5564586
+777,1951,Other,"37071     1372.0
+64118     1870.8
+112790     168.2
+Name: cap_added, dtype: float64",103.7063144
+778,1952,Other,"37343     1692.8
+64476     3132.0
+113265     133.6
+Name: cap_added, dtype: float64",95.11760481
+779,1953,Other,"37616     1966.3
+64835     4800.9
+113741      73.1
+Name: cap_added, dtype: float64",93.39882056
+780,1954,Other,"37890     1282.9
+65195     6552.6
+114218     136.0
+Name: cap_added, dtype: float64",92.49758125
+781,1955,Other,"38165     1743.5
+65556     7292.8
+114696     193.3
+Name: cap_added, dtype: float64",84.87152938
+782,1956,Other,"38441     1238.9
+65918     2416.9
+115175     154.9
+Name: cap_added, dtype: float64",84.46116563
+783,1957,Other,"38718     1594.2
+66281     4339.0
+115655     150.8
+Name: cap_added, dtype: float64",85.29983535
+784,1958,Other,"38996     2749.4
+66645     6600.5
+116136     157.6
+Name: cap_added, dtype: float64",84.89750455
+785,1959,Other,"39275     1740.8
+67010     7812.4
+116618     151.3
+Name: cap_added, dtype: float64",84.25449341
+786,1960,Other,"39555     1639.5
+67376     6029.9
+117101      91.0
+Name: cap_added, dtype: float64",85.5806742
+787,1961,Other,"39836     3493.3
+67743     4941.5
+117585     147.5
+Name: cap_added, dtype: float64",84.68072086
+788,1962,Other,"40118     2429.5
+68111     4129.6
+118070     118.2
+Name: cap_added, dtype: float64",85.60158386
+789,1963,Other,"40401     2946.5
+68480     4936.3
+118556      66.1
+Name: cap_added, dtype: float64",88.10326193
+790,1964,Other,"40685     2307.7
+68850     5174.7
+119043     136.5
+Name: cap_added, dtype: float64",89.27128095
+791,1965,Other,"40970     1604.8
+69221     5984.4
+119531     296.7
+Name: cap_added, dtype: float64",86.32230741
+792,1966,Other,"41256     1414.2
+69593     4475.0
+120020     171.4
+Name: cap_added, dtype: float64",86.3512016
+793,1967,Other,"41543     2432.3
+69966     8305.7
+120510     181.2
+Name: cap_added, dtype: float64",86.44919898
+794,1968,Other,"41831      1958.2
+70340     10427.0
+121001      217.8
+Name: cap_added, dtype: float64",86.79335451
+795,1969,Other,"42120      1907.1
+70715     13372.5
+121493      358.5
+156735     1191.8
+Name: cap_added, dtype: float64",85.79516319
+796,1970,Other,"42410      1134.8
+71091     11146.0
+121986      117.8
+157295     1257.0
+Name: cap_added, dtype: float64",89.55119496
+797,1971,Other,"42701      1187.4
+71468     14219.2
+89046       110.0
+122480       98.0
+157856     1453.6
+Name: cap_added, dtype: float64",92.37503631
+798,1972,Other,"42993       220.8
+71846     11763.8
+89468       110.0
+122975       86.5
+158418     4412.9
+Name: cap_added, dtype: float64",95.47075698
+799,1973,Other,"43286      1260.8
+72225     12733.0
+89891       110.0
+123471        5.0
+158981     2996.2
+Name: cap_added, dtype: float64",100.3501456
+800,1974,Other,"43580      554.0
+72605     9516.6
+123968      49.5
+159545    5650.5
+Name: cap_added, dtype: float64",104.3227075
+801,1975,Other,"43875     2030.5
+72986     8961.8
+90315      110.0
+160110    3364.5
+165815      16.5
+Name: cap_added, dtype: float64",NaN
+802,1976,Other,"44171     1615.3
+73368     8893.4
+124466     245.1
+160676    1805.4
+Name: cap_added, dtype: float64",108.3915931
+803,1977,Other,"44468       519.4
+73751     12617.6
+124965      376.3
+161243     3614.5
+Name: cap_added, dtype: float64",105.134246
+804,1978,Other,"44766      2321.6
+74135     12288.5
+125465      145.1
+161811      979.7
+Name: cap_added, dtype: float64",107.341053
+805,1979,Other,"45065      2127.1
+74520     10727.5
+90740       110.0
+125966      266.0
+162380      864.7
+Name: cap_added, dtype: float64",108.8421707
+806,1980,Other,"45365      1226.9
+74906     14737.4
+91166       251.0
+126468      341.3
+162950     1922.2
+Name: cap_added, dtype: float64",107.510272
+807,1981,Other,"45666       278.8
+75293     10502.8
+126971      404.8
+163521      888.2
+166391       22.4
+Name: cap_added, dtype: float64",105.6798156
+808,1982,Other,"45968       656.8
+75681     12388.7
+91593       128.0
+127475      428.8
+166968       19.5
+Name: cap_added, dtype: float64",104.2092593
+809,1983,Other,"46271      721.7
+76070     6710.7
+92021      306.0
+127980     333.0
+167546     378.2
+Name: cap_added, dtype: float64",105.4576985
+810,1984,Other,"46575      632.1
+76460     9809.6
+92450      217.7
+128486     495.1
+144668      14.8
+168125     149.2
+Name: cap_added, dtype: float64",103.9511227
+811,1985,Other,"46880     1220.2
+76851     7353.2
+92880      465.6
+128993     642.1
+145206      30.0
+168705     140.8
+Name: cap_added, dtype: float64",102.0382255
+812,1986,Other,"47186      632.9
+77243     6402.5
+93311       87.4
+129501     517.3
+145745      69.4
+169286      85.6
+Name: cap_added, dtype: float64",102.4098376
+813,1987,Other,"47493      276.8
+77636     4200.1
+93743       64.6
+130010    1013.0
+146285      34.5
+164093    1874.3
+169868     119.2
+Name: cap_added, dtype: float64",97.22744581
+814,1988,Other,"47801      539.9
+78030     1909.8
+94176      289.2
+130520     869.1
+146826      70.4
+170451      27.0
+Name: cap_added, dtype: float64",95.04436886
+815,1989,Other,"48110      575.1
+78425     1886.3
+94610      328.9
+131031    1012.5
+147368      92.0
+171035      98.8
+Name: cap_added, dtype: float64",93.20275301
+816,1990,Other,"48420      464.0
+78821     2229.4
+95045       87.5
+131543     800.1
+147911      92.0
+171620     113.2
+Name: cap_added, dtype: float64",93.38733124
+817,1991,Other,"48731      167.2
+79218     1896.3
+132056    1058.9
+172206      76.9
+Name: cap_added, dtype: float64",92.30383251
+818,1992,Other,"49043      201.1
+79616     1448.3
+95481       97.8
+132570     477.4
+172793       6.9
+Name: cap_added, dtype: float64",94.83359492
+819,1993,Other,"49356     158.9
+80015     192.8
+95918      48.0
+133085    497.6
+173381      4.2
+Name: cap_added, dtype: float64",97.55012997
+820,1994,Other,"49670      276.9
+80415     1055.0
+133601     376.3
+173970     124.4
+Name: cap_added, dtype: float64",100.7404614
+821,1995,Other,"49985      123.2
+80816     2624.4
+134118     471.6
+174560      30.0
+Name: cap_added, dtype: float64",103.3426748
+822,1996,Other,"50301       60.7
+81218     1913.3
+96356       47.5
+134636     482.7
+Name: cap_added, dtype: float64",106.0900191
+823,1997,Other,"50618      62.5
+81621      90.0
+135155    377.4
+175151     19.8
+Name: cap_added, dtype: float64",109.4262486
+824,1998,Other,"50936       2.9
+82025       3.5
+96795      60.5
+135675    295.9
+148455      0.1
+175743    177.4
+Name: cap_added, dtype: float64",113.1528642
+825,1999,Other,"51255     188.6
+82430     328.2
+136196    160.6
+149000      0.1
+176336    697.8
+Name: cap_added, dtype: float64",117.6959158
+826,2000,Other,"51575       3.7
+82836     130.5
+97235      69.8
+136718    138.2
+176930     56.1
+Name: cap_added, dtype: float64",122.4381713
+827,2001,Other,"51896      150.1
+83243      519.7
+137241     466.3
+149546       4.7
+177525    1516.0
+Name: cap_added, dtype: float64",124.730759
+828,2002,Other,"52218      17.8
+83651       0.0
+97676       7.3
+137765    234.0
+150093      2.1
+178121    661.0
+Name: cap_added, dtype: float64",128.7279509
+829,2003,Other,"52541       82.5
+84060       90.9
+98118       24.0
+138290     428.9
+150641       0.2
+178718    1609.2
+Name: cap_added, dtype: float64",131.3255503
+830,2004,Other,"52865      79.2
+84470     617.0
+138816    140.2
+179316    392.6
+Name: cap_added, dtype: float64",135.9619039
+831,2005,Other,"53190       30.4
+84881      477.7
+98561       30.0
+139343     158.6
+151190       2.5
+179915    2160.8
+Name: cap_added, dtype: float64",140.3993518
+832,2006,Other,"53516       21.4
+85293      580.7
+99005       52.5
+139871     364.8
+151740       1.4
+180515    2661.3
+Name: cap_added, dtype: float64",143.2475235
+833,2007,Other,"53843       21.6
+85706     1513.5
+99450       56.7
+140400     330.7
+152291     109.5
+181116    5283.8
+Name: cap_added, dtype: float64",146.3604388
+834,2008,Other,"54171       19.7
+86120     1584.0
+99896       64.0
+140930     351.5
+152843      34.6
+181718    8497.4
+Name: cap_added, dtype: float64",149.3125889
+835,2009,Other,"54500       26.1
+86535     1954.1
+100343     212.7
+141461     476.4
+153396     108.9
+182321    9921.5
+Name: cap_added, dtype: float64",151.3516468
+836,2010,Other,"54830       21.5
+86951     5836.0
+100791      23.5
+141993     362.9
+153950     238.3
+182925    4683.5
+Name: cap_added, dtype: float64",154.2674745
+837,2011,Other,"55161      161.0
+87368     4253.1
+101240       6.8
+142526     528.0
+154505     763.2
+183530    6882.8
+Name: cap_added, dtype: float64",155.9797897
+838,2012,Other,"55493       352.9
+87786      3952.5
+101690      191.8
+143060      561.3
+155061     1578.3
+184136    13270.3
+Name: cap_added, dtype: float64",157.5400385
+839,2013,Other,"55826      428.5
+88205      804.5
+102141      91.0
+143595     908.7
+155618    3511.2
+164666       0.0
+184743     859.1
+Name: cap_added, dtype: float64",156.7733539
+840,2014,Other,"56160      177.9
+88625      106.2
+102593      20.0
+144131     278.1
+156176    3692.7
+165240       0.0
+185351    4685.5
+Name: cap_added, dtype: float64",160.6014976
+841,1891,Solar,"23435    3.9
+Name: cap_added, dtype: float64",NaN
+842,1893,Solar,"23651    0.8
+Name: cap_added, dtype: float64",NaN
+843,1896,Solar,"23868    4.8
+Name: cap_added, dtype: float64",NaN
+844,1898,Solar,"24086    6.3
+Name: cap_added, dtype: float64",NaN
+845,1899,Solar,"24305    3.2
+Name: cap_added, dtype: float64",NaN
+846,1900,Solar,"24525    9.2
+Name: cap_added, dtype: float64",NaN
+847,1901,Solar,"24746    4.3
+Name: cap_added, dtype: float64",NaN
+848,1902,Solar,"24968    2.4
+Name: cap_added, dtype: float64",NaN
+849,1903,Solar,"25191    45.6
+Name: cap_added, dtype: float64",NaN
+850,1904,Solar,"25415    29.6
+Name: cap_added, dtype: float64",NaN
+851,1905,Solar,"25640    37.6
+Name: cap_added, dtype: float64",NaN
+852,1906,Solar,"25866    33.1
+Name: cap_added, dtype: float64",NaN
+853,1907,Solar,"26093    122.1
+Name: cap_added, dtype: float64",NaN
+854,1908,Solar,"26321    54.1
+Name: cap_added, dtype: float64",NaN
+855,1909,Solar,"26550    74.4
+Name: cap_added, dtype: float64",NaN
+856,1910,Solar,"26780    174.6
+Name: cap_added, dtype: float64",NaN
+857,1911,Solar,"27011    143.6
+Name: cap_added, dtype: float64",NaN
+858,1912,Solar,"27243    208.7
+Name: cap_added, dtype: float64",NaN
+859,1913,Solar,"27476    347.2
+Name: cap_added, dtype: float64",NaN
+860,1914,Solar,"27710    147.7
+Name: cap_added, dtype: float64",NaN
+861,1915,Solar,"27945    253.7
+Name: cap_added, dtype: float64",NaN
+862,1916,Solar,"28181    168.8
+Name: cap_added, dtype: float64",NaN
+863,1917,Solar,"28418    266.9
+Name: cap_added, dtype: float64",NaN
+864,1918,Solar,"28656    188.9
+Name: cap_added, dtype: float64",NaN
+865,1919,Solar,"28895    279.3
+Name: cap_added, dtype: float64",NaN
+866,1920,Solar,"29135    159.0
+Name: cap_added, dtype: float64",NaN
+867,1921,Solar,"29376    294.2
+56495     10.0
+Name: cap_added, dtype: float64",NaN
+868,1922,Solar,"29618    179.2
+Name: cap_added, dtype: float64",NaN
+869,1923,Solar,"29861    409.4
+Name: cap_added, dtype: float64",NaN
+870,1924,Solar,"30105    543.6
+Name: cap_added, dtype: float64",NaN
+871,1925,Solar,"30350     732.4
+56831      20.0
+103046      2.0
+Name: cap_added, dtype: float64",NaN
+872,1926,Solar,"30596     281.7
+103500     11.2
+Name: cap_added, dtype: float64",NaN
+873,1927,Solar,"30843     460.4
+103955      8.0
+Name: cap_added, dtype: float64",NaN
+874,1928,Solar,"31091     1003.5
+104411      67.5
+Name: cap_added, dtype: float64",NaN
+875,1929,Solar,"31340     260.7
+57168      25.0
+104868      6.0
+Name: cap_added, dtype: float64",NaN
+876,1930,Solar,"31590     792.6
+57506      66.7
+105326      9.5
+Name: cap_added, dtype: float64",NaN
+877,1931,Solar,"31841     626.8
+105785     11.2
+Name: cap_added, dtype: float64",NaN
+878,1932,Solar,"32093    272.3
+Name: cap_added, dtype: float64",NaN
+879,1933,Solar,"32346    37.8
+57845     3.0
+Name: cap_added, dtype: float64",NaN
+880,1934,Solar,"32600     37.6
+58185      3.0
+106245     3.0
+Name: cap_added, dtype: float64",NaN
+881,1935,Solar,"32855    81.1
+58526    89.9
+Name: cap_added, dtype: float64",NaN
+882,1936,Solar,"33111     825.4
+58868       9.0
+106706     14.5
+Name: cap_added, dtype: float64",NaN
+883,1937,Solar,"33368     355.2
+59211      20.8
+107168      8.7
+Name: cap_added, dtype: float64",NaN
+884,1938,Solar,"33626     691.6
+59555      25.0
+107631     30.5
+Name: cap_added, dtype: float64",NaN
+885,1939,Solar,"33885     504.6
+59900      65.6
+108095     20.0
+Name: cap_added, dtype: float64",NaN
+886,1940,Solar,"34145     442.6
+60246     137.5
+108560     22.7
+Name: cap_added, dtype: float64",NaN
+887,1941,Solar,"34406     752.6
+60593     134.8
+109026     23.5
+Name: cap_added, dtype: float64",NaN
+888,1942,Solar,"34668     1109.4
+60941      292.0
+109493      52.5
+Name: cap_added, dtype: float64",NaN
+889,1943,Solar,"34931     1102.4
+61290      479.2
+109961      87.5
+Name: cap_added, dtype: float64",NaN
+890,1944,Solar,"35195    1013.6
+61640     172.5
+Name: cap_added, dtype: float64",NaN
+891,1945,Solar,"35460     365.6
+61991      77.5
+110430     11.0
+Name: cap_added, dtype: float64",NaN
+892,1946,Solar,"35726    58.9
+62343    50.0
+Name: cap_added, dtype: float64",NaN
+893,1947,Solar,"35993     169.0
+62696     312.4
+110900     60.5
+Name: cap_added, dtype: float64",NaN
+894,1948,Solar,"36261     803.1
+63050     723.9
+111371    109.7
+Name: cap_added, dtype: float64",NaN
+895,1949,Solar,"36530     1245.8
+63405     1367.4
+111843     118.3
+Name: cap_added, dtype: float64",NaN
+896,1950,Solar,"36800     1201.8
+63761     1575.8
+112316     134.3
+Name: cap_added, dtype: float64",NaN
+897,1951,Solar,"37071     1372.0
+64118     1870.8
+112790     168.2
+Name: cap_added, dtype: float64",NaN
+898,1952,Solar,"37343     1692.8
+64476     3132.0
+113265     133.6
+Name: cap_added, dtype: float64",NaN
+899,1953,Solar,"37616     1966.3
+64835     4800.9
+113741      73.1
+Name: cap_added, dtype: float64",NaN
+900,1954,Solar,"37890     1282.9
+65195     6552.6
+114218     136.0
+Name: cap_added, dtype: float64",NaN
+901,1955,Solar,"38165     1743.5
+65556     7292.8
+114696     193.3
+Name: cap_added, dtype: float64",NaN
+902,1956,Solar,"38441     1238.9
+65918     2416.9
+115175     154.9
+Name: cap_added, dtype: float64",NaN
+903,1957,Solar,"38718     1594.2
+66281     4339.0
+115655     150.8
+Name: cap_added, dtype: float64",NaN
+904,1958,Solar,"38996     2749.4
+66645     6600.5
+116136     157.6
+Name: cap_added, dtype: float64",NaN
+905,1959,Solar,"39275     1740.8
+67010     7812.4
+116618     151.3
+Name: cap_added, dtype: float64",NaN
+906,1960,Solar,"39555     1639.5
+67376     6029.9
+117101      91.0
+Name: cap_added, dtype: float64",NaN
+907,1961,Solar,"39836     3493.3
+67743     4941.5
+117585     147.5
+Name: cap_added, dtype: float64",NaN
+908,1962,Solar,"40118     2429.5
+68111     4129.6
+118070     118.2
+Name: cap_added, dtype: float64",NaN
+909,1963,Solar,"40401     2946.5
+68480     4936.3
+118556      66.1
+Name: cap_added, dtype: float64",NaN
+910,1964,Solar,"40685     2307.7
+68850     5174.7
+119043     136.5
+Name: cap_added, dtype: float64",NaN
+911,1965,Solar,"40970     1604.8
+69221     5984.4
+119531     296.7
+Name: cap_added, dtype: float64",NaN
+912,1966,Solar,"41256     1414.2
+69593     4475.0
+120020     171.4
+Name: cap_added, dtype: float64",NaN
+913,1967,Solar,"41543     2432.3
+69966     8305.7
+120510     181.2
+Name: cap_added, dtype: float64",NaN
+914,1968,Solar,"41831      1958.2
+70340     10427.0
+121001      217.8
+Name: cap_added, dtype: float64",NaN
+915,1969,Solar,"42120      1907.1
+70715     13372.5
+121493      358.5
+156735     1191.8
+Name: cap_added, dtype: float64",NaN
+916,1970,Solar,"42410      1134.8
+71091     11146.0
+121986      117.8
+157295     1257.0
+Name: cap_added, dtype: float64",NaN
+917,1971,Solar,"42701      1187.4
+71468     14219.2
+89046       110.0
+122480       98.0
+157856     1453.6
+Name: cap_added, dtype: float64",NaN
+918,1972,Solar,"42993       220.8
+71846     11763.8
+89468       110.0
+122975       86.5
+158418     4412.9
+Name: cap_added, dtype: float64",NaN
+919,1973,Solar,"43286      1260.8
+72225     12733.0
+89891       110.0
+123471        5.0
+158981     2996.2
+Name: cap_added, dtype: float64",NaN
+920,1974,Solar,"43580      554.0
+72605     9516.6
+123968      49.5
+159545    5650.5
+Name: cap_added, dtype: float64",NaN
+921,1975,Solar,"43875     2030.5
+72986     8961.8
+90315      110.0
+160110    3364.5
+165815      16.5
+Name: cap_added, dtype: float64",NaN
+922,1976,Solar,"44171     1615.3
+73368     8893.4
+124466     245.1
+160676    1805.4
+Name: cap_added, dtype: float64",NaN
+923,1977,Solar,"44468       519.4
+73751     12617.6
+124965      376.3
+161243     3614.5
+Name: cap_added, dtype: float64",NaN
+924,1978,Solar,"44766      2321.6
+74135     12288.5
+125465      145.1
+161811      979.7
+Name: cap_added, dtype: float64",NaN
+925,1979,Solar,"45065      2127.1
+74520     10727.5
+90740       110.0
+125966      266.0
+162380      864.7
+Name: cap_added, dtype: float64",NaN
+926,1980,Solar,"45365      1226.9
+74906     14737.4
+91166       251.0
+126468      341.3
+162950     1922.2
+Name: cap_added, dtype: float64",NaN
+927,1981,Solar,"45666       278.8
+75293     10502.8
+126971      404.8
+163521      888.2
+166391       22.4
+Name: cap_added, dtype: float64",NaN
+928,1982,Solar,"45968       656.8
+75681     12388.7
+91593       128.0
+127475      428.8
+166968       19.5
+Name: cap_added, dtype: float64",NaN
+929,1983,Solar,"46271      721.7
+76070     6710.7
+92021      306.0
+127980     333.0
+167546     378.2
+Name: cap_added, dtype: float64",NaN
+930,1984,Solar,"46575      632.1
+76460     9809.6
+92450      217.7
+128486     495.1
+144668      14.8
+168125     149.2
+Name: cap_added, dtype: float64",21.24324324
+931,1985,Solar,"46880     1220.2
+76851     7353.2
+92880      465.6
+128993     642.1
+145206      30.0
+168705     140.8
+Name: cap_added, dtype: float64",14.86160714
+932,1986,Solar,"47186      632.9
+77243     6402.5
+93311       87.4
+129501     517.3
+145745      69.4
+169286      85.6
+Name: cap_added, dtype: float64",14.75481611
+933,1987,Solar,"47493      276.8
+77636     4200.1
+93743       64.6
+130010    1013.0
+146285      34.5
+164093    1874.3
+169868     119.2
+Name: cap_added, dtype: float64",18.90181574
+934,1988,Solar,"47801      539.9
+78030     1909.8
+94176      289.2
+130520     869.1
+146826      70.4
+170451      27.0
+Name: cap_added, dtype: float64",20.1195801
+935,1989,Solar,"48110      575.1
+78425     1886.3
+94610      328.9
+131031    1012.5
+147368      92.0
+171035      98.8
+Name: cap_added, dtype: float64",21.3747991
+936,1990,Solar,"48420      464.0
+78821     2229.4
+95045       87.5
+131543     800.1
+147911      92.0
+171620     113.2
+Name: cap_added, dtype: float64",23.65467626
+937,1991,Solar,"48731      167.2
+79218     1896.3
+132056    1058.9
+172206      76.9
+Name: cap_added, dtype: float64",NaN
+938,1992,Solar,"49043      201.1
+79616     1448.3
+95481       97.8
+132570     477.4
+172793       6.9
+Name: cap_added, dtype: float64",NaN
+939,1993,Solar,"49356     158.9
+80015     192.8
+95918      48.0
+133085    497.6
+173381      4.2
+Name: cap_added, dtype: float64",NaN
+940,1994,Solar,"49670      276.9
+80415     1055.0
+133601     376.3
+173970     124.4
+Name: cap_added, dtype: float64",NaN
+941,1995,Solar,"49985      123.2
+80816     2624.4
+134118     471.6
+174560      30.0
+Name: cap_added, dtype: float64",NaN
+942,1996,Solar,"50301       60.7
+81218     1913.3
+96356       47.5
+134636     482.7
+Name: cap_added, dtype: float64",NaN
+943,1997,Solar,"50618      62.5
+81621      90.0
+135155    377.4
+175151     19.8
+Name: cap_added, dtype: float64",NaN
+944,1998,Solar,"50936       2.9
+82025       3.5
+96795      60.5
+135675    295.9
+148455      0.1
+175743    177.4
+Name: cap_added, dtype: float64",80.90252976
+945,1999,Solar,"51255     188.6
+82430     328.2
+136196    160.6
+149000      0.1
+176336    697.8
+Name: cap_added, dtype: float64",88.04041656
+946,2000,Solar,"51575       3.7
+82836     130.5
+97235      69.8
+136718    138.2
+176930     56.1
+Name: cap_added, dtype: float64",NaN
+947,2001,Solar,"51896      150.1
+83243      519.7
+137241     466.3
+149546       4.7
+177525    1516.0
+Name: cap_added, dtype: float64",101.4102941
+948,2002,Solar,"52218      17.8
+83651       0.0
+97676       7.3
+137765    234.0
+150093      2.1
+178121    661.0
+Name: cap_added, dtype: float64",108.0256035
+949,2003,Solar,"52541       82.5
+84060       90.9
+98118       24.0
+138290     428.9
+150641       0.2
+178718    1609.2
+Name: cap_added, dtype: float64",115.1079698
+950,2004,Solar,"52865      79.2
+84470     617.0
+138816    140.2
+179316    392.6
+Name: cap_added, dtype: float64",NaN
+951,2005,Solar,"53190       30.4
+84881      477.7
+98561       30.0
+139343     158.6
+151190       2.5
+179915    2160.8
+Name: cap_added, dtype: float64",128.7555717
+952,2006,Solar,"53516       21.4
+85293      580.7
+99005       52.5
+139871     364.8
+151740       1.4
+180515    2661.3
+Name: cap_added, dtype: float64",135.4372284
+953,2007,Solar,"53843       21.6
+85706     1513.5
+99450       56.7
+140400     330.7
+152291     109.5
+181116    5283.8
+Name: cap_added, dtype: float64",114.2111896
+954,2008,Solar,"54171       19.7
+86120     1584.0
+99896       64.0
+140930     351.5
+152843      34.6
+181718    8497.4
+Name: cap_added, dtype: float64",114.3319004
+955,2009,Solar,"54500       26.1
+86535     1954.1
+100343     212.7
+141461     476.4
+153396     108.9
+182321    9921.5
+Name: cap_added, dtype: float64",103.1471823
+956,2010,Solar,"54830       21.5
+86951     5836.0
+100791      23.5
+141993     362.9
+153950     238.3
+182925    4683.5
+Name: cap_added, dtype: float64",83.18531198
+957,2011,Solar,"55161      161.0
+87368     4253.1
+101240       6.8
+142526     528.0
+154505     763.2
+183530    6882.8
+Name: cap_added, dtype: float64",52.6850842
+958,2012,Solar,"55493       352.9
+87786      3952.5
+101690      191.8
+143060      561.3
+155061     1578.3
+184136    13270.3
+Name: cap_added, dtype: float64",34.83594087
+959,2013,Solar,"55826      428.5
+88205      804.5
+102141      91.0
+143595     908.7
+155618    3511.2
+164666       0.0
+184743     859.1
+Name: cap_added, dtype: float64",24.62128969
+960,2014,Solar,"56160      177.9
+88625      106.2
+102593      20.0
+144131     278.1
+156176    3692.7
+165240       0.0
+185351    4685.5
+Name: cap_added, dtype: float64",23.84604197
+961,1891,Nuclear,"23435    3.9
+Name: cap_added, dtype: float64",NaN
+962,1893,Nuclear,"23651    0.8
+Name: cap_added, dtype: float64",NaN
+963,1896,Nuclear,"23868    4.8
+Name: cap_added, dtype: float64",NaN
+964,1898,Nuclear,"24086    6.3
+Name: cap_added, dtype: float64",NaN
+965,1899,Nuclear,"24305    3.2
+Name: cap_added, dtype: float64",NaN
+966,1900,Nuclear,"24525    9.2
+Name: cap_added, dtype: float64",NaN
+967,1901,Nuclear,"24746    4.3
+Name: cap_added, dtype: float64",NaN
+968,1902,Nuclear,"24968    2.4
+Name: cap_added, dtype: float64",NaN
+969,1903,Nuclear,"25191    45.6
+Name: cap_added, dtype: float64",NaN
+970,1904,Nuclear,"25415    29.6
+Name: cap_added, dtype: float64",NaN
+971,1905,Nuclear,"25640    37.6
+Name: cap_added, dtype: float64",NaN
+972,1906,Nuclear,"25866    33.1
+Name: cap_added, dtype: float64",NaN
+973,1907,Nuclear,"26093    122.1
+Name: cap_added, dtype: float64",NaN
+974,1908,Nuclear,"26321    54.1
+Name: cap_added, dtype: float64",NaN
+975,1909,Nuclear,"26550    74.4
+Name: cap_added, dtype: float64",NaN
+976,1910,Nuclear,"26780    174.6
+Name: cap_added, dtype: float64",NaN
+977,1911,Nuclear,"27011    143.6
+Name: cap_added, dtype: float64",NaN
+978,1912,Nuclear,"27243    208.7
+Name: cap_added, dtype: float64",NaN
+979,1913,Nuclear,"27476    347.2
+Name: cap_added, dtype: float64",NaN
+980,1914,Nuclear,"27710    147.7
+Name: cap_added, dtype: float64",NaN
+981,1915,Nuclear,"27945    253.7
+Name: cap_added, dtype: float64",NaN
+982,1916,Nuclear,"28181    168.8
+Name: cap_added, dtype: float64",NaN
+983,1917,Nuclear,"28418    266.9
+Name: cap_added, dtype: float64",NaN
+984,1918,Nuclear,"28656    188.9
+Name: cap_added, dtype: float64",NaN
+985,1919,Nuclear,"28895    279.3
+Name: cap_added, dtype: float64",NaN
+986,1920,Nuclear,"29135    159.0
+Name: cap_added, dtype: float64",NaN
+987,1921,Nuclear,"29376    294.2
+56495     10.0
+Name: cap_added, dtype: float64",NaN
+988,1922,Nuclear,"29618    179.2
+Name: cap_added, dtype: float64",NaN
+989,1923,Nuclear,"29861    409.4
+Name: cap_added, dtype: float64",NaN
+990,1924,Nuclear,"30105    543.6
+Name: cap_added, dtype: float64",NaN
+991,1925,Nuclear,"30350     732.4
+56831      20.0
+103046      2.0
+Name: cap_added, dtype: float64",NaN
+992,1926,Nuclear,"30596     281.7
+103500     11.2
+Name: cap_added, dtype: float64",NaN
+993,1927,Nuclear,"30843     460.4
+103955      8.0
+Name: cap_added, dtype: float64",NaN
+994,1928,Nuclear,"31091     1003.5
+104411      67.5
+Name: cap_added, dtype: float64",NaN
+995,1929,Nuclear,"31340     260.7
+57168      25.0
+104868      6.0
+Name: cap_added, dtype: float64",NaN
+996,1930,Nuclear,"31590     792.6
+57506      66.7
+105326      9.5
+Name: cap_added, dtype: float64",NaN
+997,1931,Nuclear,"31841     626.8
+105785     11.2
+Name: cap_added, dtype: float64",NaN
+998,1932,Nuclear,"32093    272.3
+Name: cap_added, dtype: float64",NaN
+999,1933,Nuclear,"32346    37.8
+57845     3.0
+Name: cap_added, dtype: float64",NaN
+1000,1934,Nuclear,"32600     37.6
+58185      3.0
+106245     3.0
+Name: cap_added, dtype: float64",NaN
+1001,1935,Nuclear,"32855    81.1
+58526    89.9
+Name: cap_added, dtype: float64",NaN
+1002,1936,Nuclear,"33111     825.4
+58868       9.0
+106706     14.5
+Name: cap_added, dtype: float64",NaN
+1003,1937,Nuclear,"33368     355.2
+59211      20.8
+107168      8.7
+Name: cap_added, dtype: float64",NaN
+1004,1938,Nuclear,"33626     691.6
+59555      25.0
+107631     30.5
+Name: cap_added, dtype: float64",NaN
+1005,1939,Nuclear,"33885     504.6
+59900      65.6
+108095     20.0
+Name: cap_added, dtype: float64",NaN
+1006,1940,Nuclear,"34145     442.6
+60246     137.5
+108560     22.7
+Name: cap_added, dtype: float64",NaN
+1007,1941,Nuclear,"34406     752.6
+60593     134.8
+109026     23.5
+Name: cap_added, dtype: float64",NaN
+1008,1942,Nuclear,"34668     1109.4
+60941      292.0
+109493      52.5
+Name: cap_added, dtype: float64",NaN
+1009,1943,Nuclear,"34931     1102.4
+61290      479.2
+109961      87.5
+Name: cap_added, dtype: float64",NaN
+1010,1944,Nuclear,"35195    1013.6
+61640     172.5
+Name: cap_added, dtype: float64",NaN
+1011,1945,Nuclear,"35460     365.6
+61991      77.5
+110430     11.0
+Name: cap_added, dtype: float64",NaN
+1012,1946,Nuclear,"35726    58.9
+62343    50.0
+Name: cap_added, dtype: float64",NaN
+1013,1947,Nuclear,"35993     169.0
+62696     312.4
+110900     60.5
+Name: cap_added, dtype: float64",NaN
+1014,1948,Nuclear,"36261     803.1
+63050     723.9
+111371    109.7
+Name: cap_added, dtype: float64",NaN
+1015,1949,Nuclear,"36530     1245.8
+63405     1367.4
+111843     118.3
+Name: cap_added, dtype: float64",NaN
+1016,1950,Nuclear,"36800     1201.8
+63761     1575.8
+112316     134.3
+Name: cap_added, dtype: float64",NaN
+1017,1951,Nuclear,"37071     1372.0
+64118     1870.8
+112790     168.2
+Name: cap_added, dtype: float64",NaN
+1018,1952,Nuclear,"37343     1692.8
+64476     3132.0
+113265     133.6
+Name: cap_added, dtype: float64",NaN
+1019,1953,Nuclear,"37616     1966.3
+64835     4800.9
+113741      73.1
+Name: cap_added, dtype: float64",NaN
+1020,1954,Nuclear,"37890     1282.9
+65195     6552.6
+114218     136.0
+Name: cap_added, dtype: float64",NaN
+1021,1955,Nuclear,"38165     1743.5
+65556     7292.8
+114696     193.3
+Name: cap_added, dtype: float64",NaN
+1022,1956,Nuclear,"38441     1238.9
+65918     2416.9
+115175     154.9
+Name: cap_added, dtype: float64",NaN
+1023,1957,Nuclear,"38718     1594.2
+66281     4339.0
+115655     150.8
+Name: cap_added, dtype: float64",NaN
+1024,1958,Nuclear,"38996     2749.4
+66645     6600.5
+116136     157.6
+Name: cap_added, dtype: float64",NaN
+1025,1959,Nuclear,"39275     1740.8
+67010     7812.4
+116618     151.3
+Name: cap_added, dtype: float64",NaN
+1026,1960,Nuclear,"39555     1639.5
+67376     6029.9
+117101      91.0
+Name: cap_added, dtype: float64",NaN
+1027,1961,Nuclear,"39836     3493.3
+67743     4941.5
+117585     147.5
+Name: cap_added, dtype: float64",NaN
+1028,1962,Nuclear,"40118     2429.5
+68111     4129.6
+118070     118.2
+Name: cap_added, dtype: float64",NaN
+1029,1963,Nuclear,"40401     2946.5
+68480     4936.3
+118556      66.1
+Name: cap_added, dtype: float64",NaN
+1030,1964,Nuclear,"40685     2307.7
+68850     5174.7
+119043     136.5
+Name: cap_added, dtype: float64",NaN
+1031,1965,Nuclear,"40970     1604.8
+69221     5984.4
+119531     296.7
+Name: cap_added, dtype: float64",NaN
+1032,1966,Nuclear,"41256     1414.2
+69593     4475.0
+120020     171.4
+Name: cap_added, dtype: float64",NaN
+1033,1967,Nuclear,"41543     2432.3
+69966     8305.7
+120510     181.2
+Name: cap_added, dtype: float64",NaN
+1034,1968,Nuclear,"41831      1958.2
+70340     10427.0
+121001      217.8
+Name: cap_added, dtype: float64",NaN
+1035,1969,Nuclear,"42120      1907.1
+70715     13372.5
+121493      358.5
+156735     1191.8
+Name: cap_added, dtype: float64",7
+1036,1970,Nuclear,"42410      1134.8
+71091     11146.0
+121986      117.8
+157295     1257.0
+Name: cap_added, dtype: float64",10.4068115
+1037,1971,Nuclear,"42701      1187.4
+71468     14219.2
+89046       110.0
+122480       98.0
+157856     1453.6
+Name: cap_added, dtype: float64",13.90288028
+1038,1972,Nuclear,"42993       220.8
+71846     11763.8
+89468       110.0
+122975       86.5
+158418     4412.9
+Name: cap_added, dtype: float64",36.45369379
+1039,1973,Nuclear,"43286      1260.8
+72225     12733.0
+89891       110.0
+123471        5.0
+158981     2996.2
+Name: cap_added, dtype: float64",34.18285815
+1040,1974,Nuclear,"43580      554.0
+72605     9516.6
+123968      49.5
+159545    5650.5
+Name: cap_added, dtype: float64",30.05240538
+1041,1975,Nuclear,"43875     2030.5
+72986     8961.8
+90315      110.0
+160110    3364.5
+165815      16.5
+Name: cap_added, dtype: float64",32.29232283
+1042,1976,Nuclear,"44171     1615.3
+73368     8893.4
+124466     245.1
+160676    1805.4
+Name: cap_added, dtype: float64",36.77331363
+1043,1977,Nuclear,"44468       519.4
+73751     12617.6
+124965      376.3
+161243     3614.5
+Name: cap_added, dtype: float64",48.39318118
+1044,1978,Nuclear,"44766      2321.6
+74135     12288.5
+125465      145.1
+161811      979.7
+Name: cap_added, dtype: float64",53.44812
+1045,1979,Nuclear,"45065      2127.1
+74520     10727.5
+90740       110.0
+125966      266.0
+162380      864.7
+Name: cap_added, dtype: float64",58.63864042
+1046,1980,Nuclear,"45365      1226.9
+74906     14737.4
+91166       251.0
+126468      341.3
+162950     1922.2
+Name: cap_added, dtype: float64",61.7589469
+1047,1981,Nuclear,"45666       278.8
+75293     10502.8
+126971      404.8
+163521      888.2
+166391       22.4
+Name: cap_added, dtype: float64",66.89584622
+1048,1982,Nuclear,"45968       656.8
+75681     12388.7
+91593       128.0
+127475      428.8
+166968       19.5
+Name: cap_added, dtype: float64",NaN
+1049,1983,Nuclear,"46271      721.7
+76070     6710.7
+92021      306.0
+127980     333.0
+167546     378.2
+Name: cap_added, dtype: float64",NaN
+1050,1984,Nuclear,"46575      632.1
+76460     9809.6
+92450      217.7
+128486     495.1
+144668      14.8
+168125     149.2
+Name: cap_added, dtype: float64",NaN
+1051,1985,Nuclear,"46880     1220.2
+76851     7353.2
+92880      465.6
+128993     642.1
+145206      30.0
+168705     140.8
+Name: cap_added, dtype: float64",NaN
+1052,1986,Nuclear,"47186      632.9
+77243     6402.5
+93311       87.4
+129501     517.3
+145745      69.4
+169286      85.6
+Name: cap_added, dtype: float64",NaN
+1053,1987,Nuclear,"47493      276.8
+77636     4200.1
+93743       64.6
+130010    1013.0
+146285      34.5
+164093    1874.3
+169868     119.2
+Name: cap_added, dtype: float64",102.7626497
+1054,1988,Nuclear,"47801      539.9
+78030     1909.8
+94176      289.2
+130520     869.1
+146826      70.4
+170451      27.0
+Name: cap_added, dtype: float64",NaN
+1055,1989,Nuclear,"48110      575.1
+78425     1886.3
+94610      328.9
+131031    1012.5
+147368      92.0
+171035      98.8
+Name: cap_added, dtype: float64",NaN
+1056,1990,Nuclear,"48420      464.0
+78821     2229.4
+95045       87.5
+131543     800.1
+147911      92.0
+171620     113.2
+Name: cap_added, dtype: float64",NaN
+1057,1991,Nuclear,"48731      167.2
+79218     1896.3
+132056    1058.9
+172206      76.9
+Name: cap_added, dtype: float64",NaN
+1058,1992,Nuclear,"49043      201.1
+79616     1448.3
+95481       97.8
+132570     477.4
+172793       6.9
+Name: cap_added, dtype: float64",NaN
+1059,1993,Nuclear,"49356     158.9
+80015     192.8
+95918      48.0
+133085    497.6
+173381      4.2
+Name: cap_added, dtype: float64",NaN
+1060,1994,Nuclear,"49670      276.9
+80415     1055.0
+133601     376.3
+173970     124.4
+Name: cap_added, dtype: float64",NaN
+1061,1995,Nuclear,"49985      123.2
+80816     2624.4
+134118     471.6
+174560      30.0
+Name: cap_added, dtype: float64",NaN
+1062,1996,Nuclear,"50301       60.7
+81218     1913.3
+96356       47.5
+134636     482.7
+Name: cap_added, dtype: float64",NaN
+1063,1997,Nuclear,"50618      62.5
+81621      90.0
+135155    377.4
+175151     19.8
+Name: cap_added, dtype: float64",NaN
+1064,1998,Nuclear,"50936       2.9
+82025       3.5
+96795      60.5
+135675    295.9
+148455      0.1
+175743    177.4
+Name: cap_added, dtype: float64",NaN
+1065,1999,Nuclear,"51255     188.6
+82430     328.2
+136196    160.6
+149000      0.1
+176336    697.8
+Name: cap_added, dtype: float64",NaN
+1066,2000,Nuclear,"51575       3.7
+82836     130.5
+97235      69.8
+136718    138.2
+176930     56.1
+Name: cap_added, dtype: float64",NaN
+1067,2001,Nuclear,"51896      150.1
+83243      519.7
+137241     466.3
+149546       4.7
+177525    1516.0
+Name: cap_added, dtype: float64",NaN
+1068,2002,Nuclear,"52218      17.8
+83651       0.0
+97676       7.3
+137765    234.0
+150093      2.1
+178121    661.0
+Name: cap_added, dtype: float64",NaN
+1069,2003,Nuclear,"52541       82.5
+84060       90.9
+98118       24.0
+138290     428.9
+150641       0.2
+178718    1609.2
+Name: cap_added, dtype: float64",NaN
+1070,2004,Nuclear,"52865      79.2
+84470     617.0
+138816    140.2
+179316    392.6
+Name: cap_added, dtype: float64",NaN
+1071,2005,Nuclear,"53190       30.4
+84881      477.7
+98561       30.0
+139343     158.6
+151190       2.5
+179915    2160.8
+Name: cap_added, dtype: float64",NaN
+1072,2006,Nuclear,"53516       21.4
+85293      580.7
+99005       52.5
+139871     364.8
+151740       1.4
+180515    2661.3
+Name: cap_added, dtype: float64",NaN
+1073,2007,Nuclear,"53843       21.6
+85706     1513.5
+99450       56.7
+140400     330.7
+152291     109.5
+181116    5283.8
+Name: cap_added, dtype: float64",NaN
+1074,2008,Nuclear,"54171       19.7
+86120     1584.0
+99896       64.0
+140930     351.5
+152843      34.6
+181718    8497.4
+Name: cap_added, dtype: float64",NaN
+1075,2009,Nuclear,"54500       26.1
+86535     1954.1
+100343     212.7
+141461     476.4
+153396     108.9
+182321    9921.5
+Name: cap_added, dtype: float64",NaN
+1076,2010,Nuclear,"54830       21.5
+86951     5836.0
+100791      23.5
+141993     362.9
+153950     238.3
+182925    4683.5
+Name: cap_added, dtype: float64",NaN
+1077,2011,Nuclear,"55161      161.0
+87368     4253.1
+101240       6.8
+142526     528.0
+154505     763.2
+183530    6882.8
+Name: cap_added, dtype: float64",NaN
+1078,2012,Nuclear,"55493       352.9
+87786      3952.5
+101690      191.8
+143060      561.3
+155061     1578.3
+184136    13270.3
+Name: cap_added, dtype: float64",NaN
+1079,2013,Nuclear,"55826      428.5
+88205      804.5
+102141      91.0
+143595     908.7
+155618    3511.2
+164666       0.0
+184743     859.1
+Name: cap_added, dtype: float64",286.3159022
+1080,2014,Nuclear,"56160      177.9
+88625      106.2
+102593      20.0
+144131     278.1
+156176    3692.7
+165240       0.0
+185351    4685.5
+Name: cap_added, dtype: float64",293.3316602
+1081,1891,Wind,"23435    3.9
+Name: cap_added, dtype: float64",NaN
+1082,1893,Wind,"23651    0.8
+Name: cap_added, dtype: float64",NaN
+1083,1896,Wind,"23868    4.8
+Name: cap_added, dtype: float64",NaN
+1084,1898,Wind,"24086    6.3
+Name: cap_added, dtype: float64",NaN
+1085,1899,Wind,"24305    3.2
+Name: cap_added, dtype: float64",NaN
+1086,1900,Wind,"24525    9.2
+Name: cap_added, dtype: float64",NaN
+1087,1901,Wind,"24746    4.3
+Name: cap_added, dtype: float64",NaN
+1088,1902,Wind,"24968    2.4
+Name: cap_added, dtype: float64",NaN
+1089,1903,Wind,"25191    45.6
+Name: cap_added, dtype: float64",NaN
+1090,1904,Wind,"25415    29.6
+Name: cap_added, dtype: float64",NaN
+1091,1905,Wind,"25640    37.6
+Name: cap_added, dtype: float64",NaN
+1092,1906,Wind,"25866    33.1
+Name: cap_added, dtype: float64",NaN
+1093,1907,Wind,"26093    122.1
+Name: cap_added, dtype: float64",NaN
+1094,1908,Wind,"26321    54.1
+Name: cap_added, dtype: float64",NaN
+1095,1909,Wind,"26550    74.4
+Name: cap_added, dtype: float64",NaN
+1096,1910,Wind,"26780    174.6
+Name: cap_added, dtype: float64",NaN
+1097,1911,Wind,"27011    143.6
+Name: cap_added, dtype: float64",NaN
+1098,1912,Wind,"27243    208.7
+Name: cap_added, dtype: float64",NaN
+1099,1913,Wind,"27476    347.2
+Name: cap_added, dtype: float64",NaN
+1100,1914,Wind,"27710    147.7
+Name: cap_added, dtype: float64",NaN
+1101,1915,Wind,"27945    253.7
+Name: cap_added, dtype: float64",NaN
+1102,1916,Wind,"28181    168.8
+Name: cap_added, dtype: float64",NaN
+1103,1917,Wind,"28418    266.9
+Name: cap_added, dtype: float64",NaN
+1104,1918,Wind,"28656    188.9
+Name: cap_added, dtype: float64",NaN
+1105,1919,Wind,"28895    279.3
+Name: cap_added, dtype: float64",NaN
+1106,1920,Wind,"29135    159.0
+Name: cap_added, dtype: float64",NaN
+1107,1921,Wind,"29376    294.2
+56495     10.0
+Name: cap_added, dtype: float64",NaN
+1108,1922,Wind,"29618    179.2
+Name: cap_added, dtype: float64",NaN
+1109,1923,Wind,"29861    409.4
+Name: cap_added, dtype: float64",NaN
+1110,1924,Wind,"30105    543.6
+Name: cap_added, dtype: float64",NaN
+1111,1925,Wind,"30350     732.4
+56831      20.0
+103046      2.0
+Name: cap_added, dtype: float64",NaN
+1112,1926,Wind,"30596     281.7
+103500     11.2
+Name: cap_added, dtype: float64",NaN
+1113,1927,Wind,"30843     460.4
+103955      8.0
+Name: cap_added, dtype: float64",NaN
+1114,1928,Wind,"31091     1003.5
+104411      67.5
+Name: cap_added, dtype: float64",NaN
+1115,1929,Wind,"31340     260.7
+57168      25.0
+104868      6.0
+Name: cap_added, dtype: float64",NaN
+1116,1930,Wind,"31590     792.6
+57506      66.7
+105326      9.5
+Name: cap_added, dtype: float64",NaN
+1117,1931,Wind,"31841     626.8
+105785     11.2
+Name: cap_added, dtype: float64",NaN
+1118,1932,Wind,"32093    272.3
+Name: cap_added, dtype: float64",NaN
+1119,1933,Wind,"32346    37.8
+57845     3.0
+Name: cap_added, dtype: float64",NaN
+1120,1934,Wind,"32600     37.6
+58185      3.0
+106245     3.0
+Name: cap_added, dtype: float64",NaN
+1121,1935,Wind,"32855    81.1
+58526    89.9
+Name: cap_added, dtype: float64",NaN
+1122,1936,Wind,"33111     825.4
+58868       9.0
+106706     14.5
+Name: cap_added, dtype: float64",NaN
+1123,1937,Wind,"33368     355.2
+59211      20.8
+107168      8.7
+Name: cap_added, dtype: float64",NaN
+1124,1938,Wind,"33626     691.6
+59555      25.0
+107631     30.5
+Name: cap_added, dtype: float64",NaN
+1125,1939,Wind,"33885     504.6
+59900      65.6
+108095     20.0
+Name: cap_added, dtype: float64",NaN
+1126,1940,Wind,"34145     442.6
+60246     137.5
+108560     22.7
+Name: cap_added, dtype: float64",NaN
+1127,1941,Wind,"34406     752.6
+60593     134.8
+109026     23.5
+Name: cap_added, dtype: float64",NaN
+1128,1942,Wind,"34668     1109.4
+60941      292.0
+109493      52.5
+Name: cap_added, dtype: float64",NaN
+1129,1943,Wind,"34931     1102.4
+61290      479.2
+109961      87.5
+Name: cap_added, dtype: float64",NaN
+1130,1944,Wind,"35195    1013.6
+61640     172.5
+Name: cap_added, dtype: float64",NaN
+1131,1945,Wind,"35460     365.6
+61991      77.5
+110430     11.0
+Name: cap_added, dtype: float64",NaN
+1132,1946,Wind,"35726    58.9
+62343    50.0
+Name: cap_added, dtype: float64",NaN
+1133,1947,Wind,"35993     169.0
+62696     312.4
+110900     60.5
+Name: cap_added, dtype: float64",NaN
+1134,1948,Wind,"36261     803.1
+63050     723.9
+111371    109.7
+Name: cap_added, dtype: float64",NaN
+1135,1949,Wind,"36530     1245.8
+63405     1367.4
+111843     118.3
+Name: cap_added, dtype: float64",NaN
+1136,1950,Wind,"36800     1201.8
+63761     1575.8
+112316     134.3
+Name: cap_added, dtype: float64",NaN
+1137,1951,Wind,"37071     1372.0
+64118     1870.8
+112790     168.2
+Name: cap_added, dtype: float64",NaN
+1138,1952,Wind,"37343     1692.8
+64476     3132.0
+113265     133.6
+Name: cap_added, dtype: float64",NaN
+1139,1953,Wind,"37616     1966.3
+64835     4800.9
+113741      73.1
+Name: cap_added, dtype: float64",NaN
+1140,1954,Wind,"37890     1282.9
+65195     6552.6
+114218     136.0
+Name: cap_added, dtype: float64",NaN
+1141,1955,Wind,"38165     1743.5
+65556     7292.8
+114696     193.3
+Name: cap_added, dtype: float64",NaN
+1142,1956,Wind,"38441     1238.9
+65918     2416.9
+115175     154.9
+Name: cap_added, dtype: float64",NaN
+1143,1957,Wind,"38718     1594.2
+66281     4339.0
+115655     150.8
+Name: cap_added, dtype: float64",NaN
+1144,1958,Wind,"38996     2749.4
+66645     6600.5
+116136     157.6
+Name: cap_added, dtype: float64",NaN
+1145,1959,Wind,"39275     1740.8
+67010     7812.4
+116618     151.3
+Name: cap_added, dtype: float64",NaN
+1146,1960,Wind,"39555     1639.5
+67376     6029.9
+117101      91.0
+Name: cap_added, dtype: float64",NaN
+1147,1961,Wind,"39836     3493.3
+67743     4941.5
+117585     147.5
+Name: cap_added, dtype: float64",NaN
+1148,1962,Wind,"40118     2429.5
+68111     4129.6
+118070     118.2
+Name: cap_added, dtype: float64",NaN
+1149,1963,Wind,"40401     2946.5
+68480     4936.3
+118556      66.1
+Name: cap_added, dtype: float64",NaN
+1150,1964,Wind,"40685     2307.7
+68850     5174.7
+119043     136.5
+Name: cap_added, dtype: float64",NaN
+1151,1965,Wind,"40970     1604.8
+69221     5984.4
+119531     296.7
+Name: cap_added, dtype: float64",NaN
+1152,1966,Wind,"41256     1414.2
+69593     4475.0
+120020     171.4
+Name: cap_added, dtype: float64",NaN
+1153,1967,Wind,"41543     2432.3
+69966     8305.7
+120510     181.2
+Name: cap_added, dtype: float64",NaN
+1154,1968,Wind,"41831      1958.2
+70340     10427.0
+121001      217.8
+Name: cap_added, dtype: float64",NaN
+1155,1969,Wind,"42120      1907.1
+70715     13372.5
+121493      358.5
+156735     1191.8
+Name: cap_added, dtype: float64",NaN
+1156,1970,Wind,"42410      1134.8
+71091     11146.0
+121986      117.8
+157295     1257.0
+Name: cap_added, dtype: float64",NaN
+1157,1971,Wind,"42701      1187.4
+71468     14219.2
+89046       110.0
+122480       98.0
+157856     1453.6
+Name: cap_added, dtype: float64",NaN
+1158,1972,Wind,"42993       220.8
+71846     11763.8
+89468       110.0
+122975       86.5
+158418     4412.9
+Name: cap_added, dtype: float64",NaN
+1159,1973,Wind,"43286      1260.8
+72225     12733.0
+89891       110.0
+123471        5.0
+158981     2996.2
+Name: cap_added, dtype: float64",NaN
+1160,1974,Wind,"43580      554.0
+72605     9516.6
+123968      49.5
+159545    5650.5
+Name: cap_added, dtype: float64",NaN
+1161,1975,Wind,"43875     2030.5
+72986     8961.8
+90315      110.0
+160110    3364.5
+165815      16.5
+Name: cap_added, dtype: float64",8
+1162,1976,Wind,"44171     1615.3
+73368     8893.4
+124466     245.1
+160676    1805.4
+Name: cap_added, dtype: float64",NaN
+1163,1977,Wind,"44468       519.4
+73751     12617.6
+124965      376.3
+161243     3614.5
+Name: cap_added, dtype: float64",NaN
+1164,1978,Wind,"44766      2321.6
+74135     12288.5
+125465      145.1
+161811      979.7
+Name: cap_added, dtype: float64",NaN
+1165,1979,Wind,"45065      2127.1
+74520     10727.5
+90740       110.0
+125966      266.0
+162380      864.7
+Name: cap_added, dtype: float64",NaN
+1166,1980,Wind,"45365      1226.9
+74906     14737.4
+91166       251.0
+126468      341.3
+162950     1922.2
+Name: cap_added, dtype: float64",NaN
+1167,1981,Wind,"45666       278.8
+75293     10502.8
+126971      404.8
+163521      888.2
+166391       22.4
+Name: cap_added, dtype: float64",33.54241645
+1168,1982,Wind,"45968       656.8
+75681     12388.7
+91593       128.0
+127475      428.8
+166968       19.5
+Name: cap_added, dtype: float64",30.19863014
+1169,1983,Wind,"46271      721.7
+76070     6710.7
+92021      306.0
+127980     333.0
+167546     378.2
+Name: cap_added, dtype: float64",12.02015575
+1170,1984,Wind,"46575      632.1
+76460     9809.6
+92450      217.7
+128486     495.1
+144668      14.8
+168125     149.2
+Name: cap_added, dtype: float64",17.27278935
+1171,1985,Wind,"46880     1220.2
+76851     7353.2
+92880      465.6
+128993     642.1
+145206      30.0
+168705     140.8
+Name: cap_added, dtype: float64",28.71359758
+1172,1986,Wind,"47186      632.9
+77243     6402.5
+93311       87.4
+129501     517.3
+145745      69.4
+169286      85.6
+Name: cap_added, dtype: float64",33.7871214
+1173,1987,Wind,"47493      276.8
+77636     4200.1
+93743       64.6
+130010    1013.0
+146285      34.5
+164093    1874.3
+169868     119.2
+Name: cap_added, dtype: float64",42.5176079
+1174,1988,Wind,"47801      539.9
+78030     1909.8
+94176      289.2
+130520     869.1
+146826      70.4
+170451      27.0
+Name: cap_added, dtype: float64",49.4562813
+1175,1989,Wind,"48110      575.1
+78425     1886.3
+94610      328.9
+131031    1012.5
+147368      92.0
+171035      98.8
+Name: cap_added, dtype: float64",52.95809686
+1176,1990,Wind,"48420      464.0
+78821     2229.4
+95045       87.5
+131543     800.1
+147911      92.0
+171620     113.2
+Name: cap_added, dtype: float64",55.94779563
+1177,1991,Wind,"48731      167.2
+79218     1896.3
+132056    1058.9
+172206      76.9
+Name: cap_added, dtype: float64",60.54164996
+1178,1992,Wind,"49043      201.1
+79616     1448.3
+95481       97.8
+132570     477.4
+172793       6.9
+Name: cap_added, dtype: float64",68.24605326
+1179,1993,Wind,"49356     158.9
+80015     192.8
+95918      48.0
+133085    497.6
+173381      4.2
+Name: cap_added, dtype: float64",76.05562619
+1180,1994,Wind,"49670      276.9
+80415     1055.0
+133601     376.3
+173970     124.4
+Name: cap_added, dtype: float64",80.26106451
+1181,1995,Wind,"49985      123.2
+80816     2624.4
+134118     471.6
+174560      30.0
+Name: cap_added, dtype: float64",89.63731597
+1182,1996,Wind,"50301       60.7
+81218     1913.3
+96356       47.5
+134636     482.7
+Name: cap_added, dtype: float64",NaN
+1183,1997,Wind,"50618      62.5
+81621      90.0
+135155    377.4
+175151     19.8
+Name: cap_added, dtype: float64",103.1743683
+1184,1998,Wind,"50936       2.9
+82025       3.5
+96795      60.5
+135675    295.9
+148455      0.1
+175743    177.4
+Name: cap_added, dtype: float64",99.42708075
+1185,1999,Wind,"51255     188.6
+82430     328.2
+136196    160.6
+149000      0.1
+176336    697.8
+Name: cap_added, dtype: float64",78.07491984
+1186,2000,Wind,"51575       3.7
+82836     130.5
+97235      69.8
+136718    138.2
+176930     56.1
+Name: cap_added, dtype: float64",83.44828461
+1187,2001,Wind,"51896      150.1
+83243      519.7
+137241     466.3
+149546       4.7
+177525    1516.0
+Name: cap_added, dtype: float64",57.98023145
+1188,2002,Wind,"52218      17.8
+83651       0.0
+97676       7.3
+137765    234.0
+150093      2.1
+178121    661.0
+Name: cap_added, dtype: float64",56.94919509
+1189,2003,Wind,"52541       82.5
+84060       90.9
+98118       24.0
+138290     428.9
+150641       0.2
+178718    1609.2
+Name: cap_added, dtype: float64",49.87336791
+1190,2004,Wind,"52865      79.2
+84470     617.0
+138816    140.2
+179316    392.6
+Name: cap_added, dtype: float64",54.59632873
+1191,2005,Wind,"53190       30.4
+84881      477.7
+98561       30.0
+139343     158.6
+151190       2.5
+179915    2160.8
+Name: cap_added, dtype: float64",48.83899581
+1192,2006,Wind,"53516       21.4
+85293      580.7
+99005       52.5
+139871     364.8
+151740       1.4
+180515    2661.3
+Name: cap_added, dtype: float64",45.23555188
+1193,2007,Wind,"53843       21.6
+85706     1513.5
+99450       56.7
+140400     330.7
+152291     109.5
+181116    5283.8
+Name: cap_added, dtype: float64",38.76444866
+1194,2008,Wind,"54171       19.7
+86120     1584.0
+99896       64.0
+140930     351.5
+152843      34.6
+181718    8497.4
+Name: cap_added, dtype: float64",33.92705798
+1195,2009,Wind,"54500       26.1
+86535     1954.1
+100343     212.7
+141461     476.4
+153396     108.9
+182321    9921.5
+Name: cap_added, dtype: float64",32.7989506
+1196,2010,Wind,"54830       21.5
+86951     5836.0
+100791      23.5
+141993     362.9
+153950     238.3
+182925    4683.5
+Name: cap_added, dtype: float64",37.34976227
+1197,2011,Wind,"55161      161.0
+87368     4253.1
+101240       6.8
+142526     528.0
+154505     763.2
+183530    6882.8
+Name: cap_added, dtype: float64",40.3382568
+1198,2012,Wind,"55493       352.9
+87786      3952.5
+101690      191.8
+143060      561.3
+155061     1578.3
+184136    13270.3
+Name: cap_added, dtype: float64",40.01336636
+1199,2013,Wind,"55826      428.5
+88205      804.5
+102141      91.0
+143595     908.7
+155618    3511.2
+164666       0.0
+184743     859.1
+Name: cap_added, dtype: float64",48.07832043
+1200,2014,Wind,"56160      177.9
+88625      106.2
+102593      20.0
+144131     278.1
+156176    3692.7
+165240       0.0
+185351    4685.5
+Name: cap_added, dtype: float64",53.36393695
