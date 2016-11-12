@@ -1,0 +1,376 @@
+,State,tech,Capacity
+0,WA,Natural Gas,4045.3
+1,WA,Petroleum,15.5
+2,WA,Storage,314.0
+3,WA,Hydropower,20871.3
+4,WA,Coal,1459.8
+5,WA,Other,566.5
+6,WA,Solar,0.5
+7,WA,Nuclear,1200.0
+8,WA,Wind,3077.8
+9,DE,Natural Gas,2515.2
+10,DE,Petroleum,121.6
+11,DE,Coal,445.5
+12,DE,Other,152.2
+13,DE,Solar,29.6
+14,DE,Wind,2.0
+15,DC,Natural Gas,10.8
+16,WI,Natural Gas,7123.4
+17,WI,Nuclear,1286.0
+18,WI,Petroleum,715.8
+19,WI,Hydropower,522.3
+20,WI,Coal,8715.0
+21,WI,Other,511.2
+22,WI,Solar,1.0
+23,WI,Wind,637.5
+24,WV,Natural Gas,1205.0
+25,WV,Petroleum,18.5
+26,WV,Storage,34.0
+27,WV,Hydropower,326.6
+28,WV,Coal,14969.0
+29,WV,Other,2.2
+30,WV,Wind,583.3
+31,HI,Storage,21.0
+32,HI,Petroleum,2076.5
+33,HI,Hydropower,26.2
+34,HI,Coal,203.0
+35,HI,Geothermal,51.0
+36,HI,Other,301.5
+37,HI,Solar,32.2
+38,HI,Wind,205.6
+39,FL,Natural Gas,40830.6
+40,FL,Nuclear,3797.2
+41,FL,Petroleum,7974.6
+42,FL,Hydropower,55.7
+43,FL,Coal,11343.3
+44,FL,Other,2334.5
+45,FL,Solar,75.1
+46,WY,Natural Gas,298.1
+47,WY,Petroleum,5.8
+48,WY,Hydropower,301.8
+49,WY,Coal,7244.3
+50,WY,Other,121.5
+51,WY,Wind,1433.0
+52,NH,Natural Gas,1400.5
+53,NH,Nuclear,1242.0
+54,NH,Petroleum,524.7
+55,NH,Hydropower,444.8
+56,NH,Coal,559.2
+57,NH,Other,279.8
+58,NH,Wind,171.0
+59,NJ,Natural Gas,12258.5
+60,NJ,Petroleum,974.6
+61,NJ,Storage,453.0
+62,NJ,Hydropower,14.7
+63,NJ,Coal,2003.0
+64,NJ,Other,277.5
+65,NJ,Solar,392.4
+66,NJ,Nuclear,4180.7
+67,NJ,Wind,9.0
+68,NM,Natural Gas,3796.5
+69,NM,Storage,2.6
+70,NM,Petroleum,59.0
+71,NM,Hydropower,81.7
+72,NM,Coal,3741.2
+73,NM,Geothermal,4.0
+74,NM,Other,2.2
+75,NM,Solar,250.7
+76,NM,Wind,812.3
+77,TX,Natural Gas,74179.7
+78,TX,Nuclear,5138.6
+79,TX,Petroleum,65.8
+80,TX,Hydropower,684.6
+81,TX,Coal,25420.4
+82,TX,Storage,36.0
+83,TX,Other,1105.5
+84,TX,Solar,186.6
+85,TX,Wind,14000.2
+86,LA,Natural Gas,20784.9
+87,LA,Nuclear,2235.7
+88,LA,Petroleum,1046.5
+89,LA,Hydropower,192.0
+90,LA,Coal,3796.2
+91,LA,Other,822.9
+92,NC,Solar,681.4
+93,NC,Natural Gas,12713.1
+94,NC,Nuclear,5394.7
+95,NC,Storage,95.0
+96,NC,Hydropower,1889.2
+97,NC,Coal,10969.3
+98,NC,Other,719.9
+99,NC,Petroleum,504.2
+100,ND,Natural Gas,330.0
+101,ND,Petroleum,68.5
+102,ND,Hydropower,614.0
+103,ND,Coal,4350.1
+104,ND,Other,22.6
+105,ND,Wind,1802.4
+106,NE,Natural Gas,2110.7
+107,NE,Nuclear,1303.0
+108,NE,Petroleum,361.1
+109,NE,Hydropower,332.3
+110,NE,Coal,4274.0
+111,NE,Other,15.7
+112,NE,Wind,811.7
+113,TN,Solar,47.5
+114,TN,Natural Gas,6406.0
+115,TN,Nuclear,3710.9
+116,TN,Storage,1713.6
+117,TN,Hydropower,2499.4
+118,TN,Coal,8196.5
+119,TN,Other,200.3
+120,TN,Petroleum,57.6
+121,TN,Wind,28.8
+122,NY,Solar,53.2
+123,NY,Natural Gas,21954.3
+124,NY,Nuclear,5708.1
+125,NY,Storage,1260.0
+126,NY,Hydropower,4666.2
+127,NY,Coal,2102.5
+128,NY,Other,611.2
+129,NY,Petroleum,4377.5
+130,NY,Wind,1751.1
+131,PA,Natural Gas,13320.5
+132,PA,Petroleum,2880.2
+133,PA,Storage,1561.0
+134,PA,Hydropower,919.5
+135,PA,Coal,15799.5
+136,PA,Other,761.3
+137,PA,Solar,48.5
+138,PA,Nuclear,10322.4
+139,PA,Wind,1344.1
+140,AK,Natural Gas,1220.7
+141,AK,Petroleum,757.1
+142,AK,Storage,30.0
+143,AK,Hydropower,440.4
+144,AK,Coal,113.5
+145,AK,Other,51.5
+146,AK,Wind,72.7
+147,NV,Natural Gas,8625.2
+148,NV,Petroleum,6.0
+149,NV,Hydropower,1052.2
+150,NV,Coal,1103.8
+151,NV,Geothermal,616.7
+152,NV,Other,3.2
+153,NV,Solar,617.5
+154,NV,Wind,150.0
+155,VA,Natural Gas,10704.1
+156,VA,Petroleum,2742.8
+157,VA,Storage,3109.3
+158,VA,Hydropower,821.4
+159,VA,Coal,5902.7
+160,VA,Other,1106.0
+161,VA,Nuclear,3654.4
+162,CO,Natural Gas,6748.8
+163,CO,Petroleum,200.7
+164,CO,Storage,508.5
+165,CO,Hydropower,661.1
+166,CO,Coal,5733.0
+167,CO,Other,43.3
+168,CO,Solar,129.6
+169,CO,Wind,2594.1
+170,CA,Natural Gas,46000.1
+171,CA,Petroleum,470.9
+172,CA,Storage,3030.6
+173,CA,Hydropower,9980.6
+174,CA,Coal,100.7
+175,CA,Geothermal,2830.9
+176,CA,Other,2159.8
+177,CA,Solar,5787.2
+178,CA,Nuclear,2323.0
+179,CA,Wind,5832.7
+180,AL,Natural Gas,13329.8
+181,AL,Nuclear,5270.4
+182,AL,Petroleum,33.8
+183,AL,Hydropower,3319.3
+184,AL,Coal,11741.6
+185,AL,Other,750.8
+186,AR,Natural Gas,7286.3
+187,AR,Nuclear,1845.0
+188,AR,Storage,28.0
+189,AR,Hydropower,1308.9
+190,AR,Coal,5487.0
+191,AR,Other,378.2
+192,AR,Petroleum,12.3
+193,VT,Other,85.6
+194,VT,Petroleum,135.7
+195,VT,Solar,30.3
+196,VT,Wind,121.0
+197,VT,Hydropower,313.4
+198,IL,Natural Gas,16201.5
+199,IL,Nuclear,12415.1
+200,IL,Petroleum,807.1
+201,IL,Hydropower,39.7
+202,IL,Coal,16982.1
+203,IL,Storage,1.5
+204,IL,Other,237.2
+205,IL,Solar,31.9
+206,IL,Wind,3551.5
+207,GA,Natural Gas,17922.1
+208,GA,Nuclear,4041.8
+209,GA,Petroleum,1372.9
+210,GA,Hydropower,1570.7
+211,GA,Coal,13444.2
+212,GA,Storage,1634.6
+213,GA,Other,860.3
+214,GA,Solar,68.6
+215,IN,Natural Gas,6835.6
+216,IN,Petroleum,597.5
+217,IN,Hydropower,92.1
+218,IN,Coal,20731.0
+219,IN,Other,870.3
+220,IN,Solar,91.0
+221,IN,Wind,1739.7
+222,IA,Natural Gas,2965.6
+223,IA,Nuclear,679.5
+224,IA,Petroleum,1161.9
+225,IA,Hydropower,128.2
+226,IA,Coal,7133.1
+227,IA,Other,42.9
+228,IA,Wind,5663.2
+229,OK,Natural Gas,14974.4
+230,OK,Petroleum,74.3
+231,OK,Storage,288.0
+232,OK,Hydropower,808.8
+233,OK,Coal,5844.0
+234,OK,Other,88.0
+235,OK,Wind,3779.5
+236,AZ,Solar,1402.6
+237,AZ,Natural Gas,15983.3
+238,AZ,Nuclear,4209.6
+239,AZ,Storage,194.1
+240,AZ,Hydropower,2715.0
+241,AZ,Coal,6707.0
+242,AZ,Other,38.2
+243,AZ,Petroleum,128.3
+244,AZ,Wind,237.3
+245,ID,Natural Gas,1240.5
+246,ID,Petroleum,5.0
+247,ID,Hydropower,2538.5
+248,ID,Coal,18.9
+249,ID,Geothermal,18.0
+250,ID,Other,157.4
+251,ID,Wind,966.6
+252,CT,Natural Gas,3430.4
+253,CT,Nuclear,2162.9
+254,CT,Petroleum,3208.9
+255,CT,Hydropower,118.5
+256,CT,Coal,400.0
+257,CT,Storage,31.0
+258,CT,Other,268.0
+259,CT,Solar,10.0
+260,ME,Natural Gas,1857.3
+261,ME,Petroleum,932.1
+262,ME,Hydropower,715.7
+263,ME,Coal,102.6
+264,ME,Other,640.7
+265,ME,Wind,430.6
+266,MD,Natural Gas,2363.1
+267,MD,Nuclear,1828.7
+268,MD,Petroleum,3308.3
+269,MD,Hydropower,550.8
+270,MD,Coal,5139.2
+271,MD,Other,161.6
+272,MD,Solar,67.0
+273,MD,Wind,160.0
+274,MA,Solar,290.6
+275,MA,Natural Gas,7379.2
+276,MA,Nuclear,670.0
+277,MA,Storage,1543.0
+278,MA,Hydropower,267.1
+279,MA,Coal,1130.3
+280,MA,Other,358.3
+281,MA,Petroleum,2847.6
+282,MA,Wind,84.4
+283,OH,Natural Gas,10943.7
+284,OH,Nuclear,2236.8
+285,OH,Petroleum,888.3
+286,OH,Hydropower,128.6
+287,OH,Coal,19043.1
+288,OH,Storage,24.0
+289,OH,Other,396.0
+290,OH,Solar,36.7
+291,OH,Wind,424.1
+292,UT,Natural Gas,3233.4
+293,UT,Petroleum,29.3
+294,UT,Hydropower,262.1
+295,UT,Coal,5202.7
+296,UT,Geothermal,83.8
+297,UT,Other,44.6
+298,UT,Solar,1.3
+299,UT,Wind,324.4
+300,MO,Solar,7.7
+301,MO,Natural Gas,6522.0
+302,MO,Nuclear,1235.8
+303,MO,Storage,601.4
+304,MO,Hydropower,506.0
+305,MO,Coal,13074.7
+306,MO,Other,17.2
+307,MO,Petroleum,1269.0
+308,MO,Wind,458.5
+309,MN,Natural Gas,5828.3
+310,MN,Nuclear,1871.2
+311,MN,Petroleum,924.6
+312,MN,Hydropower,167.7
+313,MN,Coal,5257.7
+314,MN,Storage,1.1
+315,MN,Other,544.0
+316,MN,Solar,1.7
+317,MN,Wind,3047.9
+318,MI,Natural Gas,10085.0
+319,MI,Nuclear,4314.1
+320,MI,Petroleum,648.5
+321,MI,Hydropower,366.1
+322,MI,Coal,12071.6
+323,MI,Storage,1978.8
+324,MI,Other,484.9
+325,MI,Wind,1529.5
+326,RI,Natural Gas,1971.1
+327,RI,Petroleum,17.7
+328,RI,Hydropower,1.6
+329,RI,Other,40.4
+330,RI,Solar,6.9
+331,RI,Wind,7.5
+332,KS,Natural Gas,4877.5
+333,KS,Nuclear,1267.7
+334,KS,Petroleum,626.5
+335,KS,Hydropower,7.0
+336,KS,Coal,5384.8
+337,KS,Other,33.1
+338,KS,Wind,2968.7
+339,MT,Natural Gas,456.0
+340,MT,Petroleum,68.0
+341,MT,Hydropower,2627.5
+342,MT,Coal,2660.6
+343,MT,Other,65.4
+344,MT,Wind,662.3
+345,MS,Nuclear,1440.0
+346,MS,Coal,2887.5
+347,MS,Other,494.0
+348,MS,Petroleum,48.0
+349,MS,Natural Gas,12675.0
+350,SC,Natural Gas,6665.1
+351,SC,Nuclear,6875.1
+352,SC,Petroleum,871.0
+353,SC,Hydropower,1364.1
+354,SC,Coal,5917.2
+355,SC,Storage,2581.2
+356,SC,Other,481.1
+357,SC,Solar,2.5
+358,KY,Coal,17645.0
+359,KY,Natural Gas,6239.4
+360,KY,Petroleum,11.5
+361,KY,Other,111.8
+362,KY,Hydropower,804.1
+363,OR,Natural Gas,3811.9
+364,OR,Hydropower,8443.0
+365,OR,Coal,642.2
+366,OR,Geothermal,33.0
+367,OR,Other,352.9
+368,OR,Solar,13.9
+369,OR,Wind,3158.4
+370,SD,Coal,456.0
+371,SD,Natural Gas,1207.0
+372,SD,Petroleum,292.4
+373,SD,Wind,660.0
+374,SD,Hydropower,1602.1
