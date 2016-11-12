@@ -15,8 +15,9 @@ import matplotlib.patheffects as path_effects
 import pdb
 import time
 import os
+from locale import *
 
-
+setlocale(LC_NUMERIC, '')
 plt.close()
 mpl.rcdefaults()
 mpl.rcParams['figure.figsize'] = 14, 9
@@ -37,7 +38,7 @@ generators = pd.read_csv('gen_exist_and_ret_Y2014.csv', skiprows = 1, low_memory
 
 """
 to-do list
-1.Make a dictionary of plat types and colors to codify everything
+1.Make a dictionary of plant types and colors to codify everything
 2. Figure out the year-extension to end of report thing, I guess it jsut goes 
  up by 1 every year? Actulaly do the math on this, you bum.
  """
@@ -80,6 +81,7 @@ graph_data = []
 graph_data.append(['State', 'current_year','tech', 'cap_added', 'year_calc', 'Fraction', 'Age', 'cap_retired', 'weighted_age'])
 
 states = list(set(generators['State']))
+#states = ['CA']
 #
 for state in states:
     
@@ -102,43 +104,68 @@ for state in states:
         years_tracked = []
     
         for op_year in op_years:
-            
+            #print op_year
             # generators that are new in this year
             new_plants = tech_gen[tech_gen['Operating Year'] == op_year] 
-            cap_added = np.sum(pd.to_numeric(pd.Series(new_plants['Nameplate Capacity (MW)']), errors='coerce'))
-        
+            #if tech == 'Nuclear':
+                #pdb.set_trace()
+           #cap_added = atof(list(np.sum(pd.to_numeric(pd.Series(new_plants['Nameplate Capacity (MW)']), errors='coerce')))[0])
+            cap_added = list(new_plants['Nameplate Capacity (MW)'])
+            cap_added = [atof(x) if isinstance(x, basestring) else x for x in cap_added]
+            cap_added = np.sum(cap_added)
+            #cap_added = np.sum(pd.to_numeric(pd.Series(new_plants['Nameplate Capacity (MW)']), errors='coerce'))
+
+            #if tech =='Nuclear':
+                #pdb.set_trace()
             ret_plants = tech_gen[tech_gen['Retirement Year'] == op_year]
-            cap_retired = np.sum(pd.to_numeric(pd.Series(ret_plants['Nameplate Capacity (MW)']), errors='coerce'))
+            
+            cap_retired = list(ret_plants['Nameplate Capacity (MW)'])
+            cap_retired = [atof(x) if isinstance(x, basestring) else x for x in cap_retired]
+            cap_retired = np.sum(cap_retired)
+            #cap_retired = np.sum(pd.to_numeric(pd.Series(ret_plants['Nameplate Capacity (MW)']), errors='coerce'))
             if cap_added > 0 or cap_retired > 0:
                 years_tracked.append(op_year)
-    
+                
                 # generators that operated in this year and prior (might include retirees)
                 op_plants = tech_gen[tech_gen['Operating Year'] <= op_year]
-                cap_active = np.sum(pd.to_numeric(pd.Series(op_plants['Nameplate Capacity (MW)']), errors='coerce'))    
+                #cap_active = np.sum(pd.to_numeric(pd.Series(op_plants['Nameplate Capacity (MW)']), errors='coerce'))
+                cap_active = list(op_plants['Nameplate Capacity (MW)'])
+                cap_active = [atof(x) if isinstance(x, basestring) else x for x in cap_active]
+                cap_active = np.sum(cap_active)
                 
                 for tyear in years_tracked:
-                    
+                    #pdb.set_trace()
                     age = (tyear - op_year)*-1 + 1
                     df_year = op_plants[op_plants['Operating Year'] == tyear]
-                    year_cap = np.sum(pd.to_numeric(pd.Series(df_year['Nameplate Capacity (MW)']), errors='coerce'))
+                   # year_cap = np.sum(pd.to_numeric(pd.Series(df_year['Nameplate Capacity (MW)']), errors='coerce'))
+                    year_cap = list(df_year['Nameplate Capacity (MW)'])
+                    year_cap = [atof(x) if isinstance(x, basestring) else x for x in year_cap]
+                    year_cap = np.sum(year_cap)
                     
                     df_ret_year = op_plants[op_plants['Retirement Year'] == tyear]
-                    year_ret_cap = np.sum(pd.to_numeric(pd.Series(df_ret_year['Nameplate Capacity (MW)']), errors='coerce'))
+                   # year_ret_cap = np.sum(pd.to_numeric(pd.Series(df_ret_year['Nameplate Capacity (MW)']), errors='coerce'))
+                    year_ret_cap = list(df_ret_year['Nameplate Capacity (MW)'])
+                    year_ret_cap = [atof(x) if isinstance(x, basestring) else x for x in year_ret_cap]
+                    year_ret_cap = np.sum(year_ret_cap)
                     
                     
                     year_cap = year_cap - year_ret_cap
                     
-                    
+                    #if tech == 'Nuclear':
+                       # pdb.set_trace()
                     try:
                         fraction = year_cap/cap_active
                         weighted_age = fraction*age
+                       # print fraction
+                       # print year_cap
+                        #print cap_active
                         graph_data.append([state, op_year, tech, cap_added, tyear, fraction, age, cap_retired, weighted_age])
                     
                     except ZeroDivisionError: 
                         error=0
             else:
                 print 'No '+ tech+' capacity added in '+ str(op_year)       
-
+#pdb.set_trace()
 graphing_data = pd.DataFrame(graph_data, columns=graph_data[0])      
 graphing_data.to_csv('tech_weighted_capacity_datav4.csv')
 
@@ -150,8 +177,8 @@ final_data = []
 
 ptypes = list(set(df['tech']))
 
-final_data.append(['State', 'Year', 'Plant Type', 'Cap_added', 'Capacity-Weighted Age'])
-
+#final_data.append(['State', 'Year', 'Plant Type', 'Cap_added', 'Capacity-Weighted Age'])
+cols = ['State', 'Year', 'Plant Type', 'Cap_added', 'Capacity-Weighted Age']
 for state in states:
     
     state_df = df[df['State'] == state]
@@ -196,7 +223,7 @@ for state in states:
                 final_data.append([state, 2014, ptype, 0, end_weighted_age])            
             #print year
     
-f_data = pd.DataFrame(final_data, columns=final_data[0])      
+f_data = pd.DataFrame(final_data, columns=cols)      
 f_data.to_csv('tech_weighted_capacity_data_finalv5.csv')
 ##      
 #for i in range(1,len(final_data)):
@@ -213,7 +240,7 @@ print 'done'
 color_dict = {'Natural Gas':'#FF7A5C', 'Petroleum':'k','Storage':'#803E75', 'Hydropower':'#00538A', 'Coal':'#817066', 'Geothermal':'#C10020', 'Other':'#CEA262',
           'Solar':'#FFB300', 'Nuclear':'#007D34','Wind':'#A6BDD7'}
 
-df = pd.read_csv('tech_weighted_capacity_data_finalv5.csv', skiprows = 1, low_memory = False)
+df = pd.read_csv('tech_weighted_capacity_data_finalv5.csv', low_memory = False)
 
 
 graph_output_directory = 'C:\Users\lp0ougx3\Desktop\Development\weighted_capacity_age\state_graphs\\'
@@ -239,8 +266,8 @@ for state in states:
         
         w_age = list(tech_df['Capacity-Weighted Age'])
     
-        
-        plt.plot(years, w_age, linewidth = 7, label = x, color = color_dict[x])
+        lw = 7+(0.01*(np.sum(tech_df['Cap_added'])))
+        plt.plot(years, w_age, linewidth = lw, label = x, color = color_dict[x])
         i = i + 1
         
     legend = ax.legend(loc='upper center', bbox_to_anchor=(0.5, -0.11),fancybox=True, shadow=True, ncol=5)
